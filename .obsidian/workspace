@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Pain",
+                "query": "tag:#examined-life",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,17 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4d21cdb3b538b8ec",
+  "active": "c4d69e4314e200e9",
   "lastOpenFiles": [
-    "21111401.md",
-    "21111402.md",
-    "21111501.md",
     "21111701.md",
+    "21111501.md",
+    "21111402.md",
+    "21111401.md",
     "21111702.md",
+    "README.md",
     "old_notes/Always do the best thing you can conceptualize.md",
     "old_notes/Understand the difference between inherent reality and constructed reality.md",
     "old_notes/Verify the experience of your reality with others.md",
-    "old_notes/Diversify your sources of meaning.md",
-    "old_notes/Study your patterns and develop principles to deal with them effectively.md"
+    "old_notes/Diversify your sources of meaning.md"
   ]
 }
