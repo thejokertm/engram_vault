@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "59b2b4e580c088f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d21cdb3b538b8ec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "21111702.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "920483336930de61",
+    "type": "split",
+    "children": [
+      {
+        "id": "712fa12d09631709",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17dceed4f555063c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c4d69e4314e200e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Pain",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 196.5
+  },
+  "right": {
+    "id": "4963b0c288cb8060",
+    "type": "split",
+    "children": [
+      {
+        "id": "54cbddc822a60ce0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55a4e796c0632752",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "21111702.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf3701b409a00f6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4d21cdb3b538b8ec",
+  "lastOpenFiles": [
+    "21111701.md",
+    "21111702.md",
+    "21111501.md",
+    "21111402.md",
+    "21111401.md",
+    "old_notes/Always do the best thing you can conceptualize.md",
+    "old_notes/Understand the difference between inherent reality and constructed reality.md",
+    "old_notes/Verify the experience of your reality with others.md",
+    "old_notes/Diversify your sources of meaning.md",
+    "old_notes/Study your patterns and develop principles to deal with them effectively.md"
+  ]
+}
