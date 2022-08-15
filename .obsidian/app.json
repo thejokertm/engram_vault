@@ -1,5 +1,5 @@
 {
-  "promptDelete": true,
+  "promptDelete": false,
   "spellcheck": true,
   "spellcheckDictionary": [
     "Arendt",
@@ -20,5 +20,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "alwaysUpdateLinks": true
 }

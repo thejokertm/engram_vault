@@ -1,4 +1,0 @@
-# Your ego distorts reality
-The ego is such a powerful force, it wants to make us believe that everything matters when nothing actually does. When we come down from an ego trip we realize that we acted not out of our code of values but out of our misguided instincts for survival. We are living, breathing creatures with the power to influence the flow of events. Survival in the modern world is of little concern, we should distance ourselves from the illusion of social status and hierarchies and follow our passion and desires with regard for the well being of our kind.
-
-#principle 
