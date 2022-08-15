@@ -1,0 +1,9 @@
+{
+  "path": "{{sources}} – {{aliases}}",
+  "list_pattern": true,
+  "excluded_folders": [],
+  "m_graph": true,
+  "m_explorer": true,
+  "m_markdown": false,
+  "m_quick_switcher": true
+}
