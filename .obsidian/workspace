@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notebooks/202208071116.md",
+            "file": "Notebooks/202208071140.md",
             "mode": "source",
             "source": false
           }
@@ -48,6 +48,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "9d856be1ccc9c42f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -69,13 +77,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebooks/202208071116.md",
+                "file": "Notebooks/202208071140.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -91,25 +99,23 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "cf3701b409a00f6e",
+  "active": "242e344413bd6e5e",
   "lastOpenFiles": [
-    "Notebooks/202208071126.md",
+    "Notebooks/202208081716.md",
+    "Notebooks/202208071140.md",
+    "Notebooks/202208081104.md",
     "Notebooks/202208071116.md",
-    "Principles/202107130721.md",
-    "Principles/202106222238.md",
-    "Principles/202107130720.md",
-    "Concepts/202108211633.md",
     "Concepts/202108131322.md",
-    "Concepts/202107261619.md",
-    "Concepts/202107261538.md",
-    "Concepts/202108211639.md"
+    "Notebooks/202208071152.md",
+    "Notebooks/202208071130.md",
+    "Notebooks/202208081120.md",
+    "Notebooks/202208081121.md",
+    "Notebooks/202208071126.md"
   ]
 }

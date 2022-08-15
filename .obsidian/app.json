@@ -21,5 +21,8 @@
     "downscalePercent": 100
   },
   "fileSortOrder": "alphabetical",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": true
 }
