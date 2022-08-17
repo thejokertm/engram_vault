@@ -1,0 +1,25 @@
+{
+  "promptDelete": true,
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "Arendt",
+    "Aldous",
+    "Hofmann",
+    "Overconsumption",
+    "YouTuber",
+    "DevDuck",
+    "Dalio",
+    "Psychadelica",
+    "semsum",
+    "thinghood",
+    "undistracted"
+  ],
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "fileSortOrder": "alphabetical",
+  "alwaysUpdateLinks": true
+}
