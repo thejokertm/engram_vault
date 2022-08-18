@@ -3,7 +3,6 @@ title: Giving
 sources: [21111801, 21111802, 21111803]
 uid: 202208081104
 aliases: [Giving]
-post_status: publish
 tags: 
 - meaning
 - giving
