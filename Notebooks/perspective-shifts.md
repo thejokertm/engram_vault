@@ -1,9 +1,16 @@
 ---
 title: Making a habit of perspective shifts
 sources: [21112601, 21112602]
+uid: 202208181117
 aliases: [Perspective Shifts]
+post_status: publish
 tags:
 -
+taxonomy:
+    category:
+        - 
+    post_tag:
+        - 
 ---
 
 Perspective shifts are critical, you never know that you actually need one until its too late or you're already experiencing one. make sorroundings/pespective shifts a regular part of your life.

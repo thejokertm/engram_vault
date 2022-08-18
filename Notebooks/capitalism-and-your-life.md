@@ -1,10 +1,17 @@
 ---
 title: Capitalism and Your Life
 sources: 21111401
+uid: 202208071116
 aliases: [Life in Capitalism]
+post_status: publish
 tags: 
 - capitalism
 - time-management
+taxonomy:
+    category:
+        - 
+    post_tag:
+        - 
 ---
 
 Capitalism presents us with a simple promise. If you give a considerable amount of your time and attention, you will be rewarded with something desired by all: wealth. 

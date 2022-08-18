@@ -1,6 +1,6 @@
 [
-  "obsidian-front-matter-title-plugin",
   "better-word-count",
   "obsidian-fullscreen-plugin",
-  "obsidian-reading-time"
+  "obsidian-reading-time",
+  "obsidian-frontmatter-tag-suggest"
 ]

@@ -1,15 +1,25 @@
 ---
 title: Giving
 sources: [21111801, 21111802, 21111803]
+uid: 202208081104
 aliases: [Giving]
+post_status: publish
 tags: 
 - meaning
 - giving
 - pain
 - addiction 
+taxonomy:
+    category:
+        - 
+    post_tag:
+        - meaning
+		- giving
+		- pain
+		- addiction 
 ---
 
-I feel strongly that one of our most inner desires is to give something back to the world. The problem with this is that we have seemingly run ourselves into a corner (see [[202208071140|World Pain]]).
+I feel strongly that one of our most inner desires is to give something back to the world. The problem with this is that we have seemingly run ourselves into a corner (see [[world-pain|World Pain]]).
 
 I am not going to be able to change the world, but can I find a reason for being within it? Can I contribute something to the betterment of only one individual?
 

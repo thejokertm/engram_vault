@@ -1,11 +1,18 @@
 ---
 title: Identify the Essential
 sources: 21111402
+uid: 202208071126
 aliases: [The Essential]
+post_status: publish
 tags: 
 - attention
 - minimalism
 - time-management 
+taxonomy:
+    category:
+        - 
+    post_tag:
+        - 
 ---
 
 Most things are not worth it. 

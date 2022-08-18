@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notebooks/202208081716.md",
+            "file": "Notebooks/giving.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebooks/202208081716.md",
+                "file": "Notebooks/giving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,15 +109,15 @@
   },
   "active": "242e344413bd6e5e",
   "lastOpenFiles": [
-    "Notebooks/202208071130.md",
-    "Notebooks/202208071126.md",
-    "Notebooks/202208071116.md",
-    "Notebooks/202208081120.md",
-    "Notebooks/202208071140.md",
-    "Notebooks/202208071152.md",
-    "Notebooks/202208081121.md",
-    "Notebooks/202208171916.md",
-    "Notebooks/202208171822.md",
-    "Notebooks/202208081716.md"
+    "Notebooks/cost-of-availability.md",
+    "Notebooks/external-constructs.md",
+    "Notebooks/giving.md",
+    "Notebooks/good-life-bad-system.md",
+    "Notebooks/great-ideas.md",
+    "Notebooks/perspective-shifts.md",
+    "Notebooks/the-essential.md",
+    "Notebooks/world-pain.md",
+    "Notebooks/dreams-are-beginnings.md",
+    "Notebooks/art-is-freedom.md"
   ]
 }

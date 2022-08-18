@@ -1,10 +1,17 @@
 ---
 title: The Cost of Availability
 sources: 21111806
+uid: 202208081121
 aliases: [The Cost of Availability]
+post_status: draft
 tags: 
 - capitalism
-- pain 
+- pain
+taxonomy:
+    category:
+        - 
+    post_tag:
+        - 
 ---
 
 Things and tools in and of themselves are not the problem, it's how these things get into our hands that is inherently flawed.
