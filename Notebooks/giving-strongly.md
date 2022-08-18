@@ -3,11 +3,20 @@ title: Giving
 sources: [21111801, 21111802, 21111803]
 uid: 202208081104
 aliases: [Giving]
+post_status: publish
 tags: 
 - meaning
 - giving
 - pain
 - addiction 
+taxonomy:
+    category:
+        - Blog
+    post_tag:
+	    - meaning
+	    - giving
+	    - pain
+	    - addiction 
 ---
 
 I feel strongly that one of our most inner desires is to give something back to the world. The problem with this is that we have seemingly run ourselves into a corner (see [[world-pain|World Pain]]).
