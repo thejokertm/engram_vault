@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notebooks/202208171822.md",
+            "file": "Notebooks/202208071116.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,14 +78,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebooks/202208171822.md",
+                "file": "Notebooks/202208071116.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -104,20 +104,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "0cf822540c68a4c2",
+  "active": "242e344413bd6e5e",
   "lastOpenFiles": [
+    "Notebooks/202208081120.md",
+    "Notebooks/202208071116.md",
+    "Notebooks/202208071140.md",
+    "Notebooks/202208071152.md",
+    "Notebooks/202208081121.md",
     "Notebooks/202208171916.md",
     "Notebooks/202208171822.md",
-    "Notebooks/Untitled.md",
     "Notebooks/202208081716.md",
-    "Notebooks/202208071140.md",
-    "Notebooks/202208071130.md",
     "Notebooks/202208071126.md",
-    "Notebooks/202208071116.md",
-    "Notebooks/202208081120.md",
     "Notebooks/202208081118.md"
   ]
 }

@@ -24,5 +24,7 @@
   "alwaysUpdateLinks": true,
   "livePreview": true,
   "strictLineBreaks": false,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notebooks"
 }
