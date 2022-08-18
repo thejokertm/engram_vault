@@ -26,5 +26,6 @@
   "strictLineBreaks": false,
   "showFrontmatter": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "Notebooks"
+  "newFileFolderPath": "Notebooks",
+  "useMarkdownLinks": true
 }
