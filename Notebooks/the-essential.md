@@ -10,9 +10,9 @@ tags:
 - time-management 
 taxonomy:
     category:
-        - 
+        - Blog
     post_tag:
-        - 
+        - attention
 ---
 
 Most things are not worth it. 

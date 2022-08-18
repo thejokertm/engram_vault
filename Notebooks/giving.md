@@ -11,7 +11,7 @@ tags:
 - addiction 
 taxonomy:
     category:
-        - 
+        - Blog
     post_tag:
         - meaning
 		- giving

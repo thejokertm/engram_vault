@@ -8,9 +8,9 @@ tags:
 -
 taxonomy:
     category:
-        - 
+        - Blog
     post_tag:
-        - 
+        - Test
 ---
 
 Perspective shifts are critical, you never know that you actually need one until its too late or you're already experiencing one. make sorroundings/pespective shifts a regular part of your life.

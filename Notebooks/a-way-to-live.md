@@ -8,9 +8,9 @@ tags:
 -
 taxonomy:
     category:
-        - 
+        - blog
     post_tag:
-        - 
+        - test
 ---
 
 Do what you have to do in this system to free yourself from it. Don't feel bad about this (see [World Pain](world-pain.md)), it has no use. Always pursue the best solution possible!

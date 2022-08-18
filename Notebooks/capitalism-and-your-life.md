@@ -9,9 +9,10 @@ tags:
 - time-management
 taxonomy:
     category:
-        - 
+        - blog
     post_tag:
-        - 
+        - capitalism
+        - time-management
 ---
 
 Capitalism presents us with a simple promise. If you give a considerable amount of your time and attention, you will be rewarded with something desired by all: wealth. 

@@ -9,9 +9,10 @@ tags:
 - capitalism 
 taxonomy:
     category:
-        - 
+        - blog
     post_tag:
-        - 
+        - art
+        - capitalism
 ---
 
 Art is the creation of something outside of this rule set, the only time anyone really gets to do this, never take that away from it, the innocence of it, the purity, we all have a drive to create, and when that happens outside of the rules of capitalism, it is cathartic.

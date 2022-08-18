@@ -8,9 +8,9 @@ tags:
 -
 taxonomy:
     category:
-        - 
+        - test
     post_tag:
-        - 
+        - blog
 ---
 
 Artistic expression is the purest form of freedom, or shall I say, unadulterated expression of any kind, doing and saying what you feel to be true, without laws or rules dictated by external systems. That is freedom.

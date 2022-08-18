@@ -8,9 +8,9 @@ tags:
 -
 taxonomy:
     category:
-        - 
+        - Blog
     post_tag:
-        - 
+        - Test
 ---
 
 

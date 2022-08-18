@@ -10,9 +10,9 @@ tags:
 - examined-life
 taxonomy:
     category:
-        - 
+        - Blog
     post_tag:
-        - 
+        - capitalism
 ---
 
 How can I live a good life in a bad system? A world I don't agree with, we have engineered ourselves away from our nature, from ourselves. How do we get back?

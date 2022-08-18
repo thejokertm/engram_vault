@@ -9,9 +9,10 @@ tags:
 - pain
 taxonomy:
     category:
-        - 
+        - Blog
     post_tag:
-        - 
+        - pain
+        - capitalism
 ---
 
 Things and tools in and of themselves are not the problem, it's how these things get into our hands that is inherently flawed.

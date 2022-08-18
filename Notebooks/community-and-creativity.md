@@ -9,9 +9,10 @@ tags:
 - community
 taxonomy:
     category:
-        - 
+        - Blog
     post_tag:
-        - 
+        - art
+        - community
 ---
 
 The communal aspect cannot be understated. Connect with those that matter on a deep level and share your journey with them – everybody benefits.

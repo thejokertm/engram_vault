@@ -9,9 +9,9 @@ tags:
 - capitalism 
 taxonomy:
     category:
-        - 
+        - Blog
     post_tag:
-        - 
+        - capitalism
 ---
 
 A piercing pain that hit my lungs like a spear violently splitting a block of wood apart. A red-hot, thick fluid spreads out slowly, burning everything in its path. A stale jar of strawberry jam, reaching the inner workings of my heart within the minute.

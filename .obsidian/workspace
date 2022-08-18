@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notebooks/giving.md",
+            "file": "Notebooks/world-pain.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebooks/giving.md",
+                "file": "Notebooks/world-pain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "242e344413bd6e5e",
   "lastOpenFiles": [
-    "Notebooks/cost-of-availability.md",
-    "Notebooks/external-constructs.md",
-    "Notebooks/giving.md",
-    "Notebooks/good-life-bad-system.md",
-    "Notebooks/great-ideas.md",
-    "Notebooks/perspective-shifts.md",
     "Notebooks/the-essential.md",
-    "Notebooks/world-pain.md",
+    "Notebooks/perspective-shifts.md",
+    "Notebooks/great-ideas.md",
+    "Notebooks/good-life-bad-system.md",
+    "Notebooks/giving.md",
+    "Notebooks/external-constructs.md",
     "Notebooks/dreams-are-beginnings.md",
-    "Notebooks/art-is-freedom.md"
+    "Notebooks/cost-of-availability.md",
+    "Notebooks/community-and-creativity.md",
+    "Notebooks/capitalism-and-your-life.md"
   ]
 }
