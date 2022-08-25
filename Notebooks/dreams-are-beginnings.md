@@ -20,7 +20,7 @@ Dreams are new beginnings.
 
 A dream for the future is a seed that can grow into a flower, allowing you to harvest more seeds and plant them into the garden of your life. A dream is the motivational force to move us from inaction to action, a dream is the chance to start again, right there, within the very moment it is conceived. 
 
-If we see dreams as destinations we are damned to be forever disappointed. Our lives are so unpredictable, so full of ever changing circumstances. It will never come out quite the way we envision it. If dreams lead us to act, to change our circumstances for the better, they have fulfilled their purpose.
+If we see dreams as destinations we are damned to be forever disappointed. Our lives are so unpredictable, so full of ever changing circumstances. It will never come out quite the way we envision it. If dreams lead us to act, to change our circumstances for the better, they have fulfilled their purpose, they have done for us all they can do.
 
 __
 When we envision a future to work towards, we see it as a destination, when in fact, it is a new beginning.

@@ -17,6 +17,6 @@ taxonomy:
 
 Most things are not worth it. 
 
-Identify with great care the things that you really need in life, the things that actually make a difference. 
+Identify with great care the things that you really need in life, the things that actually make a difference. This is a key factor to lead a meaningful [Life in Capitalism](capitalism-and-your-life.md).
 
 You will come to the realization that most things are superfluous, what is more, they actually make your life worse, they rob you of the single most valuable resource – time and attention.
