@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notebooks/Online/world-pain.md",
+            "file": "Notebooks/BlogName/world-pain.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebooks/Online/world-pain.md",
+                "file": "Notebooks/BlogName/world-pain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,12 +107,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "242e344413bd6e5e",
+  "active": "0cf822540c68a4c2",
   "lastOpenFiles": [
-    "Notebooks/Online/the-essential.md",
-    "Notebooks/Online/world-pain.md",
-    "Notebooks/Online/cost-of-availability.md",
-    "Notebooks/Online/capitalism-and-your-life.md",
+    "Notebooks/BlogName/the-essential.md",
+    "Notebooks/BlogName/world-pain.md",
+    "Notebooks/BlogName/cost-of-availability.md",
+    "Notebooks/BlogName/capitalism-and-your-life.md",
     "Notebooks/perspective-shifts.md",
     "Notebooks/great-ideas.md",
     "Notebooks/good-life-bad-system.md",
