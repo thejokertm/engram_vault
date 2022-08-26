@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notebooks/giving-strongly.md",
+            "file": "Notebooks/Online/cost-of-availability.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebooks/giving-strongly.md",
+                "file": "Notebooks/Online/cost-of-availability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "242e344413bd6e5e",
   "lastOpenFiles": [
-    "Notebooks/good-life-bad-system.md",
-    "Notebooks/giving-strongly.md",
-    "Notebooks/action-and-compensation.md",
     "Notebooks/Online/the-essential.md",
-    "Notebooks/Online/capitalism-and-your-life.md",
     "Notebooks/Online/cost-of-availability.md",
+    "Notebooks/art-in-capitalism.md",
+    "Notebooks/giving-strongly.md",
+    "Notebooks/art-is-freedom.md",
+    "Notebooks/good-life-bad-system.md",
+    "Notebooks/action-and-compensation.md",
+    "Notebooks/Online/capitalism-and-your-life.md",
     "Notebooks/world-pain.md",
-    "Notebooks/perspective-shifts.md",
-    "Notebooks/great-ideas.md",
-    "Notebooks/external-constructs.md"
+    "Notebooks/perspective-shifts.md"
   ]
 }
