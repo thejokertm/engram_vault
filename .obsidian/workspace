@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Online/capitalism-and-your-life.md",
+            "file": "Online/world-pain.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Online/capitalism-and-your-life.md",
+                "file": "Online/world-pain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,8 +109,8 @@
   },
   "active": "242e344413bd6e5e",
   "lastOpenFiles": [
-    "Online/cost-of-availability.md",
     "Online/the-essential.md",
+    "Online/cost-of-availability.md",
     "Online/capitalism-and-your-life.md",
     "Online/world-pain.md",
     "Notebooks/perspective-shifts.md",
