@@ -3,7 +3,6 @@ title: Not every Action should be compensated
 sources: [21112302]
 uid: 202208171916
 aliases: [Action does not equal Compensation]
-post_status: publish
 tags:
 -
 taxonomy:

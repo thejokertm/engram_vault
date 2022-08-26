@@ -3,7 +3,6 @@ title: The Cost of Availability
 sources: 21111806
 uid: 202208081121
 aliases: [The Cost of Availability]
-post_status: publish
 tags: 
 - capitalism
 - pain

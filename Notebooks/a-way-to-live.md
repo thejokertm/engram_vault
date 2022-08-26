@@ -3,7 +3,6 @@ title: A Way to Live?
 sources: 21111807
 uid: 202208081716
 aliases: [A Way to Live?]
-post_status: publish
 tags:
 -
 taxonomy:

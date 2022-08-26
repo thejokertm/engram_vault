@@ -3,7 +3,6 @@ title: A Good Life in a Bad System?
 sources: [21111501, 21111502, 21111503]
 uid: 202208071130
 aliases: ["Good Life, Bad System?"]
-post_status: publish
 tags: 
 - capitalism
 - human-nature

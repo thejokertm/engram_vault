@@ -3,7 +3,6 @@ title: External constructs and their power
 sources: [21112501]
 uid: 202208181110
 aliases: ["Don't focus on external constructs"]
-post_status: publish
 tags:
 -
 taxonomy:

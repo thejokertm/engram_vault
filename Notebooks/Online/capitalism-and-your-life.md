@@ -3,7 +3,6 @@ title: Capitalism and Your Life
 sources: 21111401
 uid: 202208071116
 aliases: [Life in Capitalism]
-post_status: publish
 tags: 
 - capitalism
 - time-management

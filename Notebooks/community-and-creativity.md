@@ -3,7 +3,6 @@ title: Community and Creativity
 sources: 21111804
 uid: 202208081118
 aliases: [Community and Creativity]
-post_status: publish
 tags: 
 - art
 - community

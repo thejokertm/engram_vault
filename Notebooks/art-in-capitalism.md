@@ -3,7 +3,6 @@ title: Art in Capitalism
 sources: 21111706
 uid: 202208071152
 aliases: [Art in Capitalism]
-post_status: publish
 tags: 
 - art
 - capitalism 

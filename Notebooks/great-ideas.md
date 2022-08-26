@@ -3,7 +3,6 @@ title: Great Ideas
 sources: 21111805
 uid: 202208081120
 aliases: [Great Ideas]
-post_status: publish
 tags: 
 - addiction 
 taxonomy:

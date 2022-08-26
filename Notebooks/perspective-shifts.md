@@ -3,7 +3,6 @@ title: Making a habit of perspective shifts
 sources: [21112601, 21112602]
 uid: 202208181117
 aliases: [Perspective Shifts]
-post_status: publish
 tags:
 -
 taxonomy:
