@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Online/world-pain.md",
+            "file": "Online/Test.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Online/world-pain.md",
+                "file": "Online/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "242e344413bd6e5e",
   "lastOpenFiles": [
-    "Online/the-essential.md",
     "Online/cost-of-availability.md",
-    "Online/capitalism-and-your-life.md",
+    "Online/Test.md",
+    "Online/the-essential.md",
     "Online/world-pain.md",
+    "Online/capitalism-and-your-life.md",
     "Notebooks/perspective-shifts.md",
     "Notebooks/great-ideas.md",
     "Notebooks/good-life-bad-system.md",
     "Notebooks/giving-strongly.md",
-    "Notebooks/external-constructs.md",
-    "Notebooks/dreams-are-beginnings.md"
+    "Notebooks/external-constructs.md"
   ]
 }
