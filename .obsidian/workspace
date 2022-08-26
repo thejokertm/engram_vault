@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Notebooks/BlogName/world-pain.md",
+            "file": "Online/capitalism-and-your-life.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Notebooks/BlogName/world-pain.md",
+                "file": "Online/capitalism-and-your-life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +107,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0cf822540c68a4c2",
+  "active": "242e344413bd6e5e",
   "lastOpenFiles": [
-    "_Notebooks/BlogName/the-essential.md",
-    "_Notebooks/BlogName/world-pain.md",
-    "_Notebooks/BlogName/cost-of-availability.md",
-    "_Notebooks/BlogName/capitalism-and-your-life.md",
-    "_Notebooks/perspective-shifts.md",
-    "_Notebooks/great-ideas.md",
-    "_Notebooks/good-life-bad-system.md",
-    "_Notebooks/giving-strongly.md",
-    "_Notebooks/external-constructs.md",
-    "_Notebooks/dreams-are-beginnings.md"
+    "Online/cost-of-availability.md",
+    "Online/the-essential.md",
+    "Online/capitalism-and-your-life.md",
+    "Online/world-pain.md",
+    "Notebooks/perspective-shifts.md",
+    "Notebooks/great-ideas.md",
+    "Notebooks/good-life-bad-system.md",
+    "Notebooks/giving-strongly.md",
+    "Notebooks/external-constructs.md",
+    "Notebooks/dreams-are-beginnings.md"
   ]
 }
