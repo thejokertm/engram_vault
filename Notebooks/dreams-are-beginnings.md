@@ -13,7 +13,7 @@ taxonomy:
 ---
 
 
-What is a dream? We tend to think of it as a destination, something to achieve, to work towards, when in fact, it is something far more valuable.
+Dreams? We tend to think of them as a destinations, something to achieve, to work towards.
 
 Dreams are new beginnings.
 

@@ -20,12 +20,13 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "fileSortOrder": "alphabetical",
+  "fileSortOrder": "byModifiedTimeReverse",
   "alwaysUpdateLinks": true,
   "livePreview": true,
   "strictLineBreaks": false,
   "showFrontmatter": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "Notebooks",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "newLinkFormat": "shortest"
 }

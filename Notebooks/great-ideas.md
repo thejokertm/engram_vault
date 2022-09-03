@@ -12,4 +12,7 @@ taxonomy:
         - addiction
 ---
 
-Don't let great ideas fade into oblivion just because you are addicted to feeling nothing. Accept your humanity, yes, but retain that spirit in some way, even beyond these numbing episodes.
+Don't let ideas fade into oblivion just because you are addicted to feeling nothing. 
+
+Accept your humanity, yes, but retain that spirit in some way, even beyond these numbing episodes.
+

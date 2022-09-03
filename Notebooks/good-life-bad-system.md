@@ -14,7 +14,7 @@ taxonomy:
         - capitalism
 ---
 
-How can I live a good life in a bad system? A world I don't agree with, we have engineered ourselves away from our nature, from ourselves. How do we get back?
+How can I live a good life in a bad system? A world I don't agree with ([Life in Capitalism](./capitalism-and-your-life.md)), we have engineered ourselves away from our nature, from ourselves. How do we get back?
 
 The problem for most of us is that finding back is actually "finding for the first time." We don't know any better, born into these structures, what does our humanity even mean?
 
