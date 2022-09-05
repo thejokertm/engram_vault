@@ -6,7 +6,8 @@ aliases: [A Work Ethic, work ethic]
 tags:
 -
 post_nr:
-post_status: draft
+post_status: future
+post_date: YYYY-MM-DD HH:MM:SS
 taxonomy:
     category:
         -

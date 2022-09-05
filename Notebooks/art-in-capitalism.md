@@ -1,11 +1,14 @@
 ---
-title: Art in Capitalism
-sources: 21111706
+title: "Art in Capitalism"
+sources: [21111706]
 uid: 202208071152
 aliases: [Art in Capitalism]
 tags: 
 - art
-- capitalism 
+- capitalism
+post_nr:
+post_status: future
+post_date: YYYY-MM-DD HH:MM:SS
 taxonomy:
     category:
         - blog

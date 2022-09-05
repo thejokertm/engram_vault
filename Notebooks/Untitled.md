@@ -5,7 +5,9 @@ uid: 202209021300
 aliases: [Forgiveness, forgiveness]
 tags:
 -
-post_status: draft
+post_nr:
+post_status: future
+post_date: YYYY-MM-DD HH:MM:SS
 taxonomy:
     category:
         -

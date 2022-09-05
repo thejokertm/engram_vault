@@ -5,7 +5,9 @@ uid: 202209021233
 aliases: [Palette of Micro Habits, palette of micro habits]
 tags:
 - balance
-post_status: draft
+post_nr:
+post_status: future
+post_date: YYYY-MM-DD HH:MM:SS
 taxonomy:
     category:
         -

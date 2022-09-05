@@ -1,11 +1,14 @@
 ---
-title: The Pain of the World
+title: "The Pain of the World"
 sources: [21111701, 21111702, 21111703, 21111704, 21111705]
 uid: 202208071140
 aliases: [Pain of the World, World Pain]
 tags: 
 - pain
-- capitalism 
+- capitalism
+post_nr:
+post_status: future
+post_date: YYYY-MM-DD HH:MM:SS 
 taxonomy:
     category:
         - Blog

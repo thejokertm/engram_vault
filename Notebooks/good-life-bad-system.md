@@ -1,5 +1,5 @@
 ---
-title: A Good Life in a Bad System?
+title: "A Good Life in a Bad System?"
 sources: [21111501, 21111502, 21111503]
 uid: 202208071130
 aliases: ["Good Life, Bad System?"]
@@ -7,6 +7,9 @@ tags:
 - capitalism
 - human-nature
 - examined-life
+post_nr:
+post_status: future
+post_date: YYYY-MM-DD HH:MM:SS
 taxonomy:
     category:
         - Blog

@@ -5,7 +5,9 @@ uid: 202209021218
 aliases: [Internal and External Balance]
 tags:
 - balance
-post_status: draft
+post_nr:
+post_status: future
+post_date: YYYY-MM-DD HH:MM:SS
 taxonomy:
     category:
         -

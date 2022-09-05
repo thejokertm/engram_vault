@@ -1,10 +1,13 @@
 ---
-title: Art is Freedom
+title: "Art is Freedom"
 sources: [21112502, 21112503]
 uid: 202208181113
 aliases: [Art is Freedom]
 tags:
 -
+post_nr:
+post_status: future
+post_date: YYYY-MM-DD HH:MM:SS
 taxonomy:
     category:
         - test

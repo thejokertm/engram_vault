@@ -1,5 +1,5 @@
 ---
-title: Giving
+title: "Giving"
 sources: [21111801, 21111802, 21111803, 21112801]
 uid: 202208081104
 aliases: [Giving]
@@ -8,6 +8,9 @@ tags:
 - giving
 - pain
 - addiction 
+post_nr:
+post_status: future
+post_date: YYYY-MM-DD HH:MM:SS
 taxonomy:
     category:
         - Blog

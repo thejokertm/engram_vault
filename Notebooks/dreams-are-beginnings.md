@@ -1,10 +1,13 @@
 ---
-title: Visions s Beginnings Instead of Destinations
-sources: 21112301
+title: "Visions s Beginnings Instead of Destinations"
+sources: [21112301]
 uid: 202208171822
 aliases: [A Dream is a Beginning]
 tags:
 -
+post_nr:
+post_status: future
+post_date: YYYY-MM-DD HH:MM:SS
 taxonomy:
     category:
         - Blog

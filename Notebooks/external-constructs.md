@@ -1,10 +1,13 @@
 ---
-title: External constructs and their power
+title: "External constructs and their power"
 sources: [21112501]
 uid: 202208181110
 aliases: ["Don't focus on external constructs"]
 tags:
 - balance
+post_nr:
+post_status: future
+post_date: YYYY-MM-DD HH:MM:SS
 taxonomy:
     category:
         - Blog

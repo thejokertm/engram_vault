@@ -6,6 +6,9 @@ aliases: [The Cost of Availability]
 tags: 
 - capitalism
 - pain
+post_nr:
+post_status: future
+post_date: YYYY-MM-DD HH:MM:SS
 taxonomy:
     category:
         - Blog

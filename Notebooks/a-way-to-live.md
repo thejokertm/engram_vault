@@ -1,10 +1,13 @@
 ---
-title: A Way to Live?
-sources: 21111807
+title: "A Way to Live?"
+sources: [21111807]
 uid: 202208081716
 aliases: [A Way to Live?]
 tags:
 -
+post_nr:
+post_status: future
+post_date: YYYY-MM-DD HH:MM:SS
 taxonomy:
     category:
         - blog

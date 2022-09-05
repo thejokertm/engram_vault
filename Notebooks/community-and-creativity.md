@@ -1,11 +1,14 @@
 ---
-title: Community and Creativity
-sources: 21111804
+title: "Community and Creativity"
+sources: [21111804]
 uid: 202208081118
 aliases: [Community and Creativity]
 tags: 
 - art
 - community
+post_nr:
+post_status: future
+post_date: YYYY-MM-DD HH:MM:SS
 taxonomy:
     category:
         - Blog

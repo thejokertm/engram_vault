@@ -7,8 +7,13 @@
         "id": "242e344413bd6e5e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notebooks/community-and-creativity.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "impact",
+                "query": "confrontation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notebooks/community-and-creativity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +109,15 @@
   },
   "active": "242e344413bd6e5e",
   "lastOpenFiles": [
-    "Notebooks/perspective-shifts.md",
-    "Notebooks/palette-of-micro-habits.md",
-    "Notebooks/a-way-to-live.md",
-    "Notebooks/action-and-compensation.md",
-    "Notebooks/art-in-capitalism.md",
-    "Notebooks/world-pain.md",
-    "Notebooks/art-is-freedom.md",
-    "Notebooks/great-ideas.md",
+    "Notebooks/mastering-your-life-illusion.md",
+    "Notebooks/the-power-of-confrontation.md",
+    "Notebooks/Untitled 3.md",
+    "Notebooks/try-forgive-accept-try.md",
     "Notebooks/dreams-are-beginnings.md",
-    "Notebooks/deviate-from-existing-systems.md"
+    "Notebooks/Untitled.md",
+    "Notebooks/palette-of-micro-habits.md",
+    "Notebooks/community-and-creativity.md",
+    "Notebooks/good-life-bad-system.md",
+    "Notebooks/Untitled 2.md"
   ]
 }

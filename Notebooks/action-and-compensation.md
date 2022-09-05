@@ -1,10 +1,13 @@
 ---
-title: Not every Action should be compensated
+title: "Not every Action should be compensated"
 sources: [21112302]
 uid: 202208171916
 aliases: [Action does not equal Compensation]
 tags:
 -
+post_nr:
+post_status: future
+post_date: YYYY-MM-DD HH:MM:SS
 taxonomy:
     category:
         - blog

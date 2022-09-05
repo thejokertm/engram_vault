@@ -1,10 +1,13 @@
 ---
-title: Making a habit of perspective shifts
+title: "Making a habit of perspective shifts"
 sources: [21112601, 21112602, 21113004]
 uid: 202208181117
 aliases: [Perspective Shifts, perspective shifts, shifting your perspective]
 tags:
 -
+post_nr:
+post_status: future
+post_date: YYYY-MM-DD HH:MM:SS
 taxonomy:
     category:
         - Blog

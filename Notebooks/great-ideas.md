@@ -1,10 +1,13 @@
 ---
-title: Great Ideas
-sources: 21111805
+title: "Great Ideas"
+sources: [21111805]
 uid: 202208081120
 aliases: [Great Ideas]
 tags: 
-- addiction 
+- addiction
+post_nr:
+post_status: future
+post_date: YYYY-MM-DD HH:MM:SS
 taxonomy:
     category:
         - Blog
