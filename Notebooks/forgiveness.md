@@ -2,7 +2,7 @@
 title: "The Importance of Forgiveness"
 sources: [21113001, 21113002]
 uid: 202209021300
-aliases: [Forgiveness, forgiveness]
+aliases: [Forgiveness, forgiveness, forgive]
 tags:
 -
 post_nr:

@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notebooks/community-and-creativity.md",
+            "file": "index.md",
             "mode": "source",
-            "backlinks": false,
+            "backlinks": true,
             "source": false
           }
         }
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 349.5
   },
   "right": {
     "id": "23c81e8659cad6b6",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebooks/community-and-creativity.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "242e344413bd6e5e",
   "lastOpenFiles": [
-    "Notebooks/mastering-your-life-illusion.md",
-    "Notebooks/the-power-of-confrontation.md",
-    "Notebooks/Untitled 3.md",
-    "Notebooks/try-forgive-accept-try.md",
+    "Notebooks/action-and-compensation.md",
     "Notebooks/dreams-are-beginnings.md",
-    "Notebooks/Untitled.md",
-    "Notebooks/palette-of-micro-habits.md",
+    "Notebooks/cost-of-availability.md",
     "Notebooks/community-and-creativity.md",
-    "Notebooks/good-life-bad-system.md",
-    "Notebooks/Untitled 2.md"
+    "Notebooks/pain.md",
+    "Notebooks/procrastination.md",
+    "Notebooks/the-power-of-confrontation.md",
+    "Notebooks/deep-focus.md",
+    "Notebooks/live-visions-now.md",
+    "Notebooks/work-ethic.md"
   ]
 }

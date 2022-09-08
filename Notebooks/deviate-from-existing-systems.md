@@ -15,4 +15,10 @@ taxonomy:
         -
 ---
 
-Follow your own path, sounds simple, but it is not. To know when to rely on existing systems, but to also understand when to deviate for the sake of your own self realization, that is not simple.
+We live in an age where the individual is front and center. Everything that is sold to us helps define who we are and how we are different to others (see [Global Advertizing Industry](global-advertizing-industry.md)).
+
+And yet, there are systems in place to guide us through it all. There is a path and a general expectation that I should take it. Its societal, it's endemic almost. No one to blame.
+
+Education. Work. House. Marriage. Children. Retirement. Death.
+
+To know when to rely on existing systems, but to also understand when to deviate for the sake of our own self-realization, that is one of the challenges of my life.

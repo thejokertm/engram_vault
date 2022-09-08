@@ -1,8 +1,8 @@
 ---
-title: "The Global Advertizing Industry"
+title: "The Global Advertising Industry"
 sources: [21120101]
 uid: 202209021311
-aliases: [Global Advertizing Industry]
+aliases: [Global Advertising Industry, global advertising industry]
 tags:
 -
 post_nr:

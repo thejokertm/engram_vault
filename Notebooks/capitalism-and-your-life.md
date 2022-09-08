@@ -6,7 +6,7 @@ aliases: [Life in Capitalism, capitalism, capitalistic system]
 tags: 
 - capitalism
 - time-management
-post_nr:
+post_nr: 001
 post_status: future
 post_date: YYYY-MM-DD HH:MM:SS
 taxonomy:

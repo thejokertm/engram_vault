@@ -1,6 +1,6 @@
 ---
 title: "Visions s Beginnings Instead of Destinations"
-sources: [21112301]
+sources: [21112301, 21121801]
 uid: 202208171822
 aliases: [A Dream is a Beginning]
 tags:
@@ -30,3 +30,5 @@ When we envision a future to work towards, we see it as a destination, when in f
 Envision a life that has the ideal conditions for new and exciting things to arise.
 
 A vision for the future is but a seed that grows into a flower, allowing you to harvest many more seeds and plant them in well nurtured soil, only for the cycle to repeat. Once you understand that goals, visions, dreams are but new beginnings, that is when you live a life of continually pushing your notions and how far you though they could go.
+
+You will never achieve your exact vision, your dream. It is just not possible. However, you can get damn close, and this is what you should dedicate your time to, getting close and having a good time doing it.

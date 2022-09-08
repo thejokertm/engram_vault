@@ -18,4 +18,4 @@ Dedicate yourself to practicing deep focus regularly. Eliminate all distractions
 
 If nothin else, there is value, purpose and meaning in dedicating all your attention and senses to the things you do, the things you spend your time with.
 
-Understand how special and important deep focus is, treasure it and limit distractions as much as possible, because anything can have the power to get you out of that.
+Understand how special and important deep focus is, treasure it and limit distractions as much as possible, because anything can have the power to get you out of that. [The Essential](the-essential.md)

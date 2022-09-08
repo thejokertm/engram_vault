@@ -1,6 +1,6 @@
 ---
 title: "Not every Action should be compensated"
-sources: [21112302]
+sources: [21112302, 21122200]
 uid: 202208171916
 aliases: [Action does not equal Compensation]
 tags:

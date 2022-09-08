@@ -20,7 +20,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "fileSortOrder": "byModifiedTimeReverse",
+  "fileSortOrder": "byCreatedTime",
   "alwaysUpdateLinks": true,
   "livePreview": true,
   "strictLineBreaks": false,

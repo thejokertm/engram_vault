@@ -15,4 +15,4 @@ taxonomy:
         - Test
 ---
 
-Don't focus on external constructs too much, because you cannot always control that outcome, yes you dislike capitalism at its core, don't focus on that, focus on how you can buy yourself time. Keep an [Internal and External Balance](./balance-external-internal.md).
+Don't focus on external constructs too much, because you cannot always control that outcome, yes you dislike capitalism at its core, don't focus on that, focus on how you can buy yourself time. Keep [Internal and External Balance](./balance-external-internal.md).

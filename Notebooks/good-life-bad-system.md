@@ -22,3 +22,5 @@ How can I live a good life in a bad system? A world I don't agree with ([Life in
 The problem for most of us is that finding back is actually "finding for the first time." We don't know any better, born into these structures, what does our humanity even mean?
 
 Uncompromising self reflection at all times is the only way to get there, lead an examined life, look at yourself and at what is happening around you.
+
+Is [Try, Forgive, Accept, Try Again](try-forgive-accept-try.md) an awnser?

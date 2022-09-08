@@ -17,4 +17,4 @@ taxonomy:
 
 Pain is inherently bad, to be avoided at all costs.
 
-This is perhaps one of the biggest misconceptions ever. Pain is to be embraced and overcome. It shapes you, it lets you grow, never run away from it, pain makes you who you are.
+This is perhaps one of the biggest misconceptions ever. Pain is to be embraced and overcome. It shapes you, it lets you grow, never run away from it, pain makes you who you are. [Confrontation](the-power-of-confrontation.md)
