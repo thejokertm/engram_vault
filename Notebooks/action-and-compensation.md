@@ -16,3 +16,5 @@ taxonomy:
 ---
 
 Help someone for free. I think it is important to dedicate time and attention to something that is not designed to yield monetary return. Donate time and attention, much more valuable than donating time and money. Help people be better and you will be surprised how much better you yourself become.
+
+- Dedicate a portion of your day to the practice of attention, focus, sharpen your mind, the better you can focus on the things that matter to you, the happier you will be.

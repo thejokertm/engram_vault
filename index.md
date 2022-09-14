@@ -28,6 +28,7 @@ taxonomy:
 	- **21121700** – How do I embrace my limitations? I have experienced them, understood them, and accepted them, how do I embrace them?
 	- **21111807** – Do what you have to do in this system to free yourself from it. Don't feel bad about this, it has no use. Always pursue the best solution possible! The goal is to make enough money with the least amount of effort, and on your own terms as much as possible. Play the game, make use of all loopholes, don't feel bad about that. You simply want to maintain yourself in the position to actually create the meaning you want to create. This is not a means in itself! It is a natural part of living in this system.
 	- **21122102** – Don't hide yourself from the world, no matter how ugly things get, pick up the pieces and show yourself.
+	- **21122701** – How much time you have on any given day is entirely a matter of perspective. After several hours of work or chores, it's all too easy to call it a day, to be "tired." And so, the hours will fade away, make sure you get enough sleep, and use the time you have for the things you want to do. Change your perspective. You are not tired!
 
 
--> 27/12/21 – MON
+-> 220117 – MON

@@ -2,7 +2,7 @@
 title: "Identify the Essential"
 sources: [21111402]
 uid: 202208071126
-aliases: [The Essential]
+aliases: [The Essential, essential]
 tags: 
 - attention
 - minimalism

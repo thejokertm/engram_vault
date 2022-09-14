@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "trust",
+      "path": "Notebooks/deep-trust.md"
+    },
+    {
+      "type": "file",
+      "title": "diversify",
+      "path": "Notebooks/diversify.md"
+    }
+  ]
+}

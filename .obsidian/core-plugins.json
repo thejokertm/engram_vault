@@ -4,9 +4,11 @@
   "switcher",
   "graph",
   "backlink",
+  "outgoing-link",
   "tag-pane",
   "page-preview",
   "note-composer",
   "starred",
+  "slides",
   "file-recovery"
 ]
