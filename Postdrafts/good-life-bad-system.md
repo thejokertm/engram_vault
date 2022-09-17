@@ -9,7 +9,7 @@ tags:
 - examined-life
 post_nr:
 post_status: draft
-post_date: YYYY-MM-DD HH:MM:SS
+post_date: 0000-00-00 00:00:00
 taxonomy:
     category:
         - Blog
