@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Postdrafts/good-life-bad-system.md",
+            "file": "Postdrafts/the-essential.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Postdrafts/good-life-bad-system.md",
+                "file": "Postdrafts/the-essential.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Postdrafts/good-life-bad-system.md",
+                "file": "Postdrafts/the-essential.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,8 +134,8 @@
   },
   "active": "8852108396b652c5",
   "lastOpenFiles": [
-    "Postdrafts/the-essential.md",
     "Postdrafts/good-life-bad-system.md",
+    "Postdrafts/the-essential.md",
     "Postdrafts/world-pain.md",
     "Postdrafts/community-and-creativity.md",
     "Postdrafts/perfection-illusion.md",
