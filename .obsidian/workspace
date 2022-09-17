@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notebooks/capitalism-and-your-life.md",
+            "file": "Postdrafts/the-power-of-confrontation.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notebooks/try-forgive-accept-try.md",
+            "file": "Postdrafts/try-forgive-accept-try.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebooks/capitalism-and-your-life.md",
+                "file": "Postdrafts/the-power-of-confrontation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notebooks/capitalism-and-your-life.md",
+                "file": "Postdrafts/the-power-of-confrontation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,15 +134,15 @@
   },
   "active": "8852108396b652c5",
   "lastOpenFiles": [
-    "Notebooks/palette-of-micro-habits.md",
-    "Notebooks/forgiveness.md",
-    "Notebooks/try-forgive-accept-try.md",
-    "Notebooks/perspective-shifts.md",
-    "Notebooks/striving-and-being.md",
-    "Notebooks/Untitled 5.md",
-    "Notebooks/enough-time.md",
-    "Notebooks/balance-external-internal.md",
-    "Notebooks/deviate-from-existing-systems.md",
-    "Notebooks/active-curiosity.md"
+    "Postdrafts/meditation.md",
+    "Postdrafts/try-forgive-accept-try.md",
+    "Postdrafts/perfection-illusion.md",
+    "Postdrafts/enough-time.md",
+    "Postdrafts/do-not-speak-for-others.md",
+    "Postdrafts/capitalism-and-your-life.md",
+    "Postdrafts/palette-of-micro-habits.md",
+    "Postdrafts/forgiveness.md",
+    "Postdrafts/perspective-shifts.md",
+    "Postdrafts/striving-and-being.md"
   ]
 }
