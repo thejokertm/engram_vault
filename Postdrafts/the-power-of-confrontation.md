@@ -23,4 +23,7 @@ Don't run. Whatever it is that you are running from, it is going to catch up. Th
 
 We need friction in our lives. Hard and uncomfortable situations create meaning and allow us to make decisions.
 
+%%
+Test Comment
+%%
 
