@@ -8,7 +8,7 @@ tags:
 - time-management
 post_nr: 001
 post_status: draft
- _post_date: YYYY-MM-DD HH:MM:SS
+_post_date: YYYY-MM-DD HH:MM:SS
 taxonomy:
     category:
         - blog
