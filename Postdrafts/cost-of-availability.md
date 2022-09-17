@@ -8,7 +8,7 @@ tags:
 - pain
 post_nr:
 post_status: draft
-post_date: 0000-00-00 00:00:00
+ _post_date: YYYY-MM-DD HH:MM:SS
 taxonomy:
     category:
         - Blog
