@@ -19,6 +19,8 @@ taxonomy:
 - post-nr format is NNN, so 001, 002, etc.
 - There is a double page in the green notebook?!
 - check 21121200, 21121600 for an introspection into why regular drug consumption is a bad idea.
+- Basically, have all posts always synched in the postdrafts folder, use the status draft to indicate posts that are not ready to be published.
+	- When sceduling posts, set the post_date variable and remove the underscore.
 - **Random snippets**:
 	- **21120701** – Build a life that is conductive to the experiences you want to have.
 	- **21120705** – Who are you to deem any human existence a failure or a success? It is probably neither. Focus on the things you can change.

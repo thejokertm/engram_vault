@@ -10,9 +10,9 @@ post_status: draft
 _post_date: YYYY-MM-DD HH:MM:SS
 taxonomy:
     category:
-        - Blog
+        - Digital Garden
     post_tag:
-        - Test
+        -
 ---
 
 You never really know what you need until it is too late. In most cases this is not a big deal. Even after the fact, most situations can be salvaged with some damage control and course correction.

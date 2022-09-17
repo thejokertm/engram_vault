@@ -10,9 +10,9 @@ post_status: draft
 _post_date: YYYY-MM-DD HH:MM:SS
 taxonomy:
     category:
-        - Blog
+        - Digital Garden
     post_tag:
-        - Test
+        - 
 ---
 
 

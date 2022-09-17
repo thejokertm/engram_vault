@@ -10,9 +10,9 @@ post_status: draft
 _post_date: YYYY-MM-DD HH:MM:SS
 taxonomy:
     category:
-        - test
+        - Digital Garden
     post_tag:
-        - blog
+        -
 ---
 
 Artistic expression is the purest form of freedom, or shall I say, unadulterated expression of any kind, doing and saying what you feel to be true, without laws or rules dictated by external systems. That is freedom.

@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8852108396b652c5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Postdrafts/the-essential.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
         "id": "8a2497ec3f67afc1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Postdrafts/try-forgive-accept-try.md",
+            "file": "Postdrafts/the-essential.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -132,17 +119,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8852108396b652c5",
+  "active": "8a2497ec3f67afc1",
   "lastOpenFiles": [
-    "Postdrafts/good-life-bad-system.md",
-    "Postdrafts/the-essential.md",
-    "Postdrafts/world-pain.md",
     "Postdrafts/community-and-creativity.md",
-    "Postdrafts/perfection-illusion.md",
-    "Postdrafts/meditation.md",
-    "Postdrafts/deep-trust.md",
+    "Postdrafts/great-ideas.md",
+    "Postdrafts/cost-of-availability.md",
+    "Postdrafts/dreams-are-beginnings.md",
     "Postdrafts/action-and-compensation.md",
+    "Postdrafts/external-constructs.md",
     "Postdrafts/the-power-of-confrontation.md",
-    "Postdrafts/try-forgive-accept-try.md"
+    "Postdrafts/procrastination.md",
+    "Postdrafts/pain.md",
+    "Postdrafts/do-not-speak-for-others.md"
   ]
 }

@@ -7,9 +7,12 @@ tags:
 - attention
 - minimalism
 - time-management 
+post_nr:
+post_status: draft
+_post_date: YYYY-MM-DD HH:MM:SS
 taxonomy:
     category:
-        - Blog
+        - Digital Garden
     post_tag:
         - attention
 ---
@@ -19,7 +22,3 @@ Most things are not worth it.
 Identify with great care the things that you really need in life, the things that actually make a difference. This is a key factor to lead a meaningful [Life in Capitalism](capitalism-and-your-life.md).
 
 In doing this, I came to the realization that most things are superfluous, what is more, they actually make your life worse, they rob you of the single most valuable resource – time and attention.
-
-%%
-Test Comment
-%%

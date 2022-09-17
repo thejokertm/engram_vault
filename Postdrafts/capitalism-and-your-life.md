@@ -11,7 +11,7 @@ post_status: draft
 _post_date: YYYY-MM-DD HH:MM:SS
 taxonomy:
     category:
-        - blog
+        - Digital Garden
     post_tag:
         - capitalism
         - time-management
