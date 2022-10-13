@@ -14,7 +14,7 @@ taxonomy:
         - hypercapitalism
 ---
 
-Capitalism presents us with a simple promise. If you give a considerable amount of your time and attention, you will be rewarded with something desired by all: wealth. 
+Hypercapitalism presents us with a simple promise. If you give a considerable amount of your time and attention, you will be rewarded with something desired by all: wealth. 
 
 If you give enough, you will receive enough. You will belong to this infamous group of happy individuals that call themselves the wealthy. You will have money. But these clean, crisp notes of paper will slip through your hands faster than a melting ice cube.
 
