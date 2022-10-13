@@ -1,9 +1,30 @@
 {
-  "path": "{{sources}} – {{aliases}}",
-  "list_pattern": true,
-  "excluded_folders": [],
-  "m_graph": true,
-  "m_explorer": true,
-  "m_markdown": false,
-  "m_quick_switcher": true
+  "templates": [
+    "{{sources}} {{aliases}}"
+  ],
+  "managers": {
+    "explorer": true,
+    "graph": true,
+    "header": false,
+    "quick_switcher": true
+  },
+  "rules": {
+    "paths": {
+      "mode": "black",
+      "values": []
+    },
+    "delimiter": {
+      "enabled": false,
+      "value": ""
+    }
+  },
+  "debug": false,
+  "boot": {
+    "delay": 1000
+  },
+  "features": {
+    "explorer:sort": {
+      "enabled": true
+    }
+  }
 }

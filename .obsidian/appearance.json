@@ -1,5 +1,9 @@
 {
-  "baseFontSize": 20,
+  "baseFontSize": 21,
   "theme": "moonstone",
-  "translucency": false
+  "translucency": false,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "MCL Wide Views"
+  ]
 }

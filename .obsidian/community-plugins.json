@@ -1,7 +1,12 @@
 [
   "better-word-count",
-  "obsidian-fullscreen-plugin",
   "obsidian-reading-time",
   "obsidian-frontmatter-tag-suggest",
-  "obsidian-front-matter-title-plugin"
+  "obsidian-front-matter-title-plugin",
+  "dataview",
+  "obsidian-contextual-typography",
+  "templater-obsidian",
+  "obsidian-snippet-downloader",
+  "obsidian-minimal-settings",
+  "cm-typewriter-scroll-obsidian"
 ]

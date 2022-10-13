@@ -4,14 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "8a2497ec3f67afc1",
+        "id": "2817c04f73ecf024",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Postdrafts/the-essential.md",
+            "file": "Temp/global-advertizing-industry.md",
             "mode": "source",
-            "backlinks": true,
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "2041a88b32716296",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Postdrafts/001-why-not-start-with-capitalism.md",
+            "mode": "source",
+            "backlinks": false,
             "source": false
           }
         }
@@ -41,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "the essential",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 265
   },
   "right": {
     "id": "23c81e8659cad6b6",
@@ -78,13 +91,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Postdrafts/the-essential.md",
+                "file": "Postdrafts/001-why-not-start-with-capitalism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -106,9 +119,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Postdrafts/the-essential.md",
+                "file": "Postdrafts/001-why-not-start-with-capitalism.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -116,20 +129,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 291.5,
     "collapsed": true
   },
-  "active": "8a2497ec3f67afc1",
+  "active": "2041a88b32716296",
   "lastOpenFiles": [
-    "Postdrafts/community-and-creativity.md",
-    "Postdrafts/great-ideas.md",
-    "Postdrafts/cost-of-availability.md",
-    "Postdrafts/dreams-are-beginnings.md",
-    "Postdrafts/action-and-compensation.md",
-    "Postdrafts/external-constructs.md",
-    "Postdrafts/the-power-of-confrontation.md",
-    "Postdrafts/procrastination.md",
-    "Postdrafts/pain.md",
-    "Postdrafts/do-not-speak-for-others.md"
+    "Temp/global-advertizing-industry.md",
+    "Temp/world-pain.md",
+    "Postdrafts/a-users-definition-of-hypercapitalism.md",
+    "Temp/striving-and-being.md",
+    "Temp/try-forgive-accept-try.md",
+    "Postdrafts/perfection-a-tangible-illusion.md",
+    "Temp/self-reflection.md",
+    "Postdrafts/deep-trust.md",
+    "Postdrafts/productivity-myth.md",
+    "Temp/002-the-connection-between-conciousness-and-deep-trust.md"
   ]
 }

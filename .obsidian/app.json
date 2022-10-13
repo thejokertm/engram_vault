@@ -1,5 +1,5 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "spellcheck": true,
   "spellcheckDictionary": [
     "Arendt",
@@ -20,13 +20,19 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "fileSortOrder": "byCreatedTime",
+  "fileSortOrder": "alphabetical",
   "alwaysUpdateLinks": true,
   "livePreview": true,
   "strictLineBreaks": false,
   "showFrontmatter": true,
-  "newFileLocation": "folder",
-  "newFileFolderPath": "Notebooks",
+  "newFileLocation": "current",
+  "newFileFolderPath": "Postdrafts",
   "useMarkdownLinks": true,
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "relative",
+  "readableLineLength": true,
+  "userIgnoreFilters": [
+    "Ideas Bin/",
+    "Templates/",
+    "Dataviews/"
+  ]
 }
