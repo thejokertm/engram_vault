@@ -7,8 +7,6 @@ tags:
 - perfection
 post_status: future
 post_date: 2022-10-14 10:00:00
-post_excerpt: "Perfection is conceivable, but it is not attainable. It is an illusion, a human construct. The mastery of our lives is something that cannot fully be achieved."
-comment_status: closed
 taxonomy:
     category:
         - Digital Garden

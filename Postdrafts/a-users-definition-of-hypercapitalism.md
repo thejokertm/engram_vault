@@ -7,8 +7,6 @@ tags:
 - hypercapitalism
 post_status: future
 post_date: 2022-10-14 10:00:00
-post_excerpt: "Capitalism presents us with a simple promise. If you give your time and attention, you will be rewarded with something desired by all: wealth."
-comment_status: closed
 taxonomy:
     category:
         - Digital Garden

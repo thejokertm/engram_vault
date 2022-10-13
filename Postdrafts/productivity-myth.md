@@ -7,8 +7,6 @@ tags:
 - hypercapitalism
 post_status: future
 post_date: 2022-10-14 10:00:00
-post_excerpt: "The idea that we should treat our selves and our lives as we treat machines, that we should measure our worth merely on an output and input equation."
-comment_status: closed
 taxonomy:
     category:
         - Digital Garden
