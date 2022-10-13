@@ -7,6 +7,8 @@ tags:
 - trust
 post_status: future
 post_date: 2022-10-14 10:00:00
+post_excerpt: "Uhrvertrauen, Basic or Deep Trust – a form of intrinsic belief in the perseverance of the human spirit, in the unquantifiable currents that guide our lives."
+comment_status: closed
 taxonomy:
     category:
         - Digital Garden

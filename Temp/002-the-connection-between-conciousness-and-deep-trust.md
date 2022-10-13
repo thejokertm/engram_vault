@@ -32,4 +32,4 @@ Our world is mostly build on a mindless mode of operation. Wake up. Work. Eat. B
 [Self Reflection](self-reflection.md)
 
 ## Last Week's Logbook Entry
-[#1 Why not Start With Capitalism?](001-why-not-start-with-capitalism.md)
+[#1 Why not Start With Capitalism?](../Postdrafts/why-not-start-with-capitalism.md)

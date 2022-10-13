@@ -7,6 +7,8 @@ tags:
 - perfection
 post_status: future
 post_date: 2022-10-14 10:00:00
+post_excerpt: "Perfection is conceivable, but it is not attainable. It is an illusion, a human construct. The mastery of our lives is something that cannot fully be achieved."
+comment_status: closed
 taxonomy:
     category:
         - Digital Garden
@@ -14,7 +16,7 @@ taxonomy:
         - perfection
 ---
 
-We can always envision greater things, bigger things. The absolute mastery over our own lives is something we can imagine, but that cannot ever fully be achieved. Perfection is conceivable, but it is not attainable. It is an illusion, a human construct. 
+We can always envision greater things, bigger things. The absolute mastery of our own lives is something we can imagine, but that cannot ever fully be achieved. Perfection is conceivable, but it is not attainable. It is an illusion, a human construct. 
 
 We are an integral part of what we are trying to master, and our ability to look at ourselves critically creates this point of frustration. Remember that, and work *with* the limits of your humanity, not against. 
 

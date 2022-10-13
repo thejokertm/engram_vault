@@ -1,10 +1,12 @@
 ---
-title: "#1 Why Not Start With Capitalism?"
+title: "Why Not Start With Capitalism?"
 uid: 202209281122
 aliases: ["Logbook #1", "#1 Why not Start With Capitalism?"]
 post_nr: 001
 post_status: future
 post_date: 2022-10-14 10:00:00
+post_excerpt: "Our obsession with perfection is upheld by a common capitalistic understanding: we are seekers, looking for things that make us feel complete."
+comment_status: open
 taxonomy:
     category:
         - Logbook
