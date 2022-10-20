@@ -22,7 +22,7 @@ taxonomy:
 %%
 ## Also Relevant
 [You Will Never Have Enough Time](enough-time.md)
-[Meditation](../Temp/meditation.md)
+[Meditation](../Postdrafts/the-practice-of-paying-attention.md)
 [Self Reflection](../Temp/self-reflection.md)
 ## In-Text Links
 

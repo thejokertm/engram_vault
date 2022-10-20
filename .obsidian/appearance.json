@@ -2,8 +2,9 @@
   "baseFontSize": 21,
   "theme": "moonstone",
   "translucency": false,
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "enabledCssSnippets": [
     "MCL Wide Views"
-  ]
+  ],
+  "accentColor": ""
 }

@@ -8,5 +8,6 @@
   "templater-obsidian",
   "obsidian-snippet-downloader",
   "obsidian-minimal-settings",
-  "cm-typewriter-scroll-obsidian"
+  "cm-typewriter-scroll-obsidian",
+  "obsidian-regex-pipeline"
 ]

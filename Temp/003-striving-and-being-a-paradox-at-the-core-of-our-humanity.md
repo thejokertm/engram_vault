@@ -28,4 +28,4 @@ Acceptance is about being at peace with current circumstances, despite their som
 [21120201 Striving and Being](striving-and-being.md)
 
 ## Last Week's Logbook Entry
-[#2 The Connection Between Conciousness and Deep Trust](002-the-connection-between-conciousness-and-deep-trust.md)
+[#2 The Connection Between Conciousness and Deep Trust](../Postdrafts/the-connection-between-deep-trust-and-paying-attention.md)

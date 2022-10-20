@@ -15,6 +15,7 @@ taxonomy:
         - 
 ---
 
+Dreams arent there to be acheived.Träume sind eigentlich nicht dafür da in erfüllung zu gehen.
 
 Dreams? We tend to think of them as a destinations, something to achieve, to work towards.
 

@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "59b2b4e580c088f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "908f7e3cd5e4c714",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8b1a8551ec6a32a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postdrafts/deep-trust.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbe2ea7704351ead",
+    "type": "split",
+    "children": [
+      {
+        "id": "c25fb24a9edc1998",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cf822540c68a4c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33e59455b15bb117",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "the essential",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2dfec453a540fcb1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265
+  },
+  "right": {
+    "id": "23c81e8659cad6b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e122018f4dff3830",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa7fc6fc23a7d28c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Postdrafts/deep-trust.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "25f8a7dd49e27bbb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8001d0c6cf562925",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Postdrafts/deep-trust.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "b8b1a8551ec6a32a",
+  "lastOpenFiles": [
+    "Postdrafts/the-practice-of-paying-attention.md",
+    "Postdrafts/deep-trust.md",
+    "Postdrafts/the-connection-between-deep-trust-and-paying-attention.md",
+    "Postdrafts/perfection-a-tangible-illusion.md",
+    "Postdrafts/the-global-advertising-industry.md",
+    "Postdrafts/a-users-definition-of-hypercapitalism.md",
+    "Postdrafts/productivity-myth.md",
+    "Postdrafts/why-not-start-with-capitalism.md",
+    "Ideas Bin/diversify.md",
+    "Ideas Bin/shifting-outlines.md"
+  ]
+}

@@ -15,7 +15,7 @@ taxonomy:
         -
 ---
 
-We live in an age where the individual is front and center. Everything that is sold to us helps define who we are and how we are different to others (see [Global Advertizing Industry](../Temp/global-advertizing-industry.md)).
+We live in an age where the individual is front and center. Everything that is sold to us helps define who we are and how we are different to others (see [Global Advertizing Industry](../Postdrafts/the-global-advertising-industry.md)).
 
 And yet, there are systems in place to guide us through it all. There is a path and a general expectation that I should take it. Its societal, it's endemic almost. No one to blame.
 

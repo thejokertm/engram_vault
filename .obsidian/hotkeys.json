@@ -48,5 +48,13 @@
       ],
       "key": "4"
     }
+  ],
+  "obsidian-regex-pipeline:apply-ruleset": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "9"
+    }
   ]
 }

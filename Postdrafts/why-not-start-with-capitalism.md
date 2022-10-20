@@ -1,12 +1,10 @@
 ---
 title: "Why Not Start With Capitalism?"
 uid: 202209281122
-aliases: ["Logbook #1", "#1 Why not Start With Capitalism?"]
+aliases: ["#1 Why not Start With Capitalism?"]
 post_nr: 001
 post_status: future
 post_date: 2022-10-14 10:00:00
-custom_fields:
-	comment_status: "open"
 taxonomy:
     category:
         - Logbook
