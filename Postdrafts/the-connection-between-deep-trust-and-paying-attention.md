@@ -30,12 +30,12 @@ This is often called meditation, or mindfulness practice. I find that these term
 
 Paying attention leads us to connect with the constancy of experience. The more we feel like there is a layer underneath all the chatter, the more we can begin to trust in its availability. Drop back and receive what is headed your way. It can help us feel more alive. And I'm not talking about that carrot-on-a-stick version of aliveness, dependent on the things you don't own, how you fail to dress or what experiences you almost never had. I'm talking about re-discovering the magic of being who you already are, without all the nonsense you need to keep buying to prevent society from collapsing.
 
-## Added Notes (2)
+### Added Notes (2)
 [The Practice of Paying Attention](./the-practice-of-paying-attention.md)
 [The Global Advertising Industry](./the-global-advertising-industry.md)
 
-## Updated Notes (1)
+### Updated Notes (1)
 [Deep Trust](./deep-trust.md)
 
-## Last Week's Entry
+### Last Week's Entry
 [Why not Start With Capitalism?](./why-not-start-with-capitalism.md)
