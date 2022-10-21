@@ -24,5 +24,5 @@ The singular source of Deep Trust is the constancy of consciousness. That space 
 
 Give yourself to life, to time and flow with the river, only then can you be sure to see a great many things.
 
-## Also Relevant
+### Also Relevant
 [The Connection Between Paying Attention and Deep Trust](./the-connection-between-deep-trust-and-paying-attention.md)
