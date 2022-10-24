@@ -20,7 +20,7 @@ If you give enough, you will receive enough. You will belong to this infamous gr
 
 These tokens exist to be exchanged for something else, drawing your psyche into a devilish circle of rinse and repeat. Make money, and exchange it for happiness. Our natural sense of action is turned against itself. Wanting more becomes wanting to buy more.
 
-Fancy wallets. Exotic juices. Slick phones. Blazing fast cars. Expansive homes. A trip to the Fiji Islands that will change your life. In hypercapitalism, everything can be bought, it seems (see [The Global Advertising Industry](the-global-advertising-industry.md)).
+Fancy wallets. Exotic juices. Slick phones. Blazing fast cars. Expansive homes. A trip to the Fiji Islands that will change your life. In hypercapitalism, everything can be bought, it seems (see [The Global Advertising Industry](./the-global-advertising-industry.md)).
 
 Work more, buy more, and all the while something dwindles away, slowly fading into the darkness of your 4k smartphone display – your time and attention.
 

@@ -22,10 +22,10 @@ A big theme in my notes and in my life has been the common understanding that pe
 
 Acceptance is about being at peace with current circumstances, despite their sometimes unsettling nature. But then what force would lead me out of that stage to try again? Why should I try to make things better if I'm content living within the present of my experience? There seems to be dynamic between [striving and being](striving-and-being.md) which serves as the motor to drive any human action in the first place. We need to be able to imagine a better world to attempt to build it in the first place. And that vision drives us to action. The crucial point is, by my old system of operation, its manifestation was not sufficient, it was not perfect, it was not just how I imagined it. That lead to inaction. Accepting the outcome should not lead me to try with less rigor. Perfection is to be forever approximated, never achieved. And the displeasure from a perfection not achieved should never lead you into the false belief that you have performed under your human capabilities. In fact, if you have tried to approximate perfection, you have done all you could have done as a human being. Acceptance should never lead to inaction, to complacency with your life or the world. Rather, it should remove the key negative frame around your humanity that has potentially led you to inaction. Even so, the paradox remains. How can I be and strive at the same time? I don't yet have an answer. The frame of the paradox is to never deal in absolutes. Even perfection, if understood as a vision to approximate, rather than as the only valuable outcome, can be a useful driver to action. We seem to need some of that. I tend to the dynamic between being and striving like I tend to a garden. I give both sides just enough space to lead me to greater action without the crippling fear of failiure.
 
-## Added Notes (3)
+### Added Notes (3)
 [Pain of the World](world-pain.md)
 [Try, Forgive, Accept, Try Again](try-forgive-accept-try.md)
 [21120201 Striving and Being](striving-and-being.md)
 
-## Last Week's Logbook Entry
+### Last Week's Logbook Entry
 [#2 The Connection Between Conciousness and Deep Trust](../Postdrafts/the-connection-between-deep-trust-and-paying-attention.md)
