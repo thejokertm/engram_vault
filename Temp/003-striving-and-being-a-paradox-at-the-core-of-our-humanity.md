@@ -1,8 +1,8 @@
 ---
 title: "#3 Striving and Being – A Paradox at the Core of our Humanity"
 uid: 202210081206
-aliases: ["Logbook #3"]
-post_nr: 003
+aliases: ["Logbook #"]
+post_nr: 000
 post_status: future
 post_date: 2022-10-28 10:00:00
 taxonomy:

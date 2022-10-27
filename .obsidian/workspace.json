@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "908f7e3cd5e4c714",
+        "id": "b8c11e679ecc333c",
         "type": "tabs",
         "children": [
           {
-            "id": "b8b1a8551ec6a32a",
+            "id": "d5506f4b9fb6fa64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postdrafts/a-users-definition-of-hypercapitalism.md",
+                "file": "Postdrafts/a-practical-understanding-of-time.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "54dbc4ef7afdcac8",
+            "id": "568c7b9f9f5e4197",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas Bin/enough-time.md",
+                "file": "Postdrafts/live-your-visions-now.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0874e9efe5f01192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postdrafts/you-will-never-have-enough-time.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Postdrafts/a-users-definition-of-hypercapitalism.md",
+                "file": "Postdrafts/a-practical-understanding-of-time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Postdrafts/a-users-definition-of-hypercapitalism.md",
+                "file": "Postdrafts/a-practical-understanding-of-time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,17 +156,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b8b1a8551ec6a32a",
+  "active": "d5506f4b9fb6fa64",
   "lastOpenFiles": [
-    "Postdrafts/the-global-advertising-industry.md",
-    "Ideas Bin/time-definiton.md",
-    "Ideas Bin/enough-time.md",
+    "Postdrafts/live-your-visions-now.md",
+    "Postdrafts/you-will-never-have-enough-time.md",
+    "Postdrafts/a-practical-understanding-of-time.md",
+    "Postdrafts/the-connection-between-deep-trust-and-paying-attention.md",
+    "Postdrafts/why-not-start-with-capitalism.md",
+    "Ideas Bin/the-concept-of-time.md",
     "Temp/003-striving-and-being-a-paradox-at-the-core-of-our-humanity.md",
-    "Postdrafts/a-users-definition-of-hypercapitalism.md",
-    "Postdrafts/the-practice-of-paying-attention.md",
     "Postdrafts/perfection-a-tangible-illusion.md",
-    "Postdrafts/productivity-myth.md",
-    "Postdrafts/deep-trust.md",
-    "Ideas Bin/forgiveness.md"
+    "Temp/world-pain.md",
+    "Temp/self-reflection.md"
   ]
 }

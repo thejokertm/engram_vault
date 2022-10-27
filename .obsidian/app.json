@@ -33,6 +33,7 @@
   "userIgnoreFilters": [
     "Ideas Bin/",
     "Templates/",
-    "Dataviews/"
+    "Dataviews/",
+    "Temp/"
   ]
 }
