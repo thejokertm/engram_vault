@@ -10,7 +10,7 @@ taxonomy:
         - Logbook
 ---
 
-![A digital illustration of an ominous world clock hovering over the head of a human](_images/a-practical-understanding-of-time.jpg "Test")
+![A digital illustration of an ominous world clock hovering over the head of a human](../_images/a-practical-understanding-of-time.jpg "Test")
 
 
 The question of time is a pressing one. How we perceive past, present and future has an enormous impact on our quality of life. I want to take a closer look at our perception of time and its actual relevance. Understanding time, considering its immediacy, is crucial to building a philosophy of life that works in our favor.
