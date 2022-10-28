@@ -10,7 +10,7 @@ taxonomy:
         - Logbook
 ---
 
-![A digital illustration of a centered sphere containing a perfect universe, surrounded by roman architecture](/_images/image-the-connection-between-deep-trust-and-paying-attention.jpg "The Connection Between Deep Trust and Paying Attention")
+![The Connection Between Deep Trust and Paying Attention](/_images/image-the-connection-between-deep-trust-and-paying-attention.jpg "The Connection Between Deep Trust and Paying Attention")
 
 I want to examine the relationship between what I describe as [Deep Trust](./deep-trust.md) and the practice of paying attention. Deep Trust operates on the assumption that there is something within us that has no external dependencies. In fact, you can't influence its existence at all. This can provide a feeling of alrightness quite unlike any other, and is available to all of us if we just pay attention.
 

@@ -53,6 +53,9 @@ The reality is that dying in the middle of life is not possible, or even advisab
 [Live Your Visions Now](./live-your-visions-now.md)
 [You Will Never Have Enough Time](./you-will-never-have-enough-time.md)
 
+### Last Week's Entry
+[The Connection Between Deep Trust and Paying Attention](./the-connection-between-deep-trust-and-paying-attention.md)
+
 ### Sources and Further Reading
 Davies, P. (2014, October 24). _Time’s Passage is Probably an Illusion_. Scientific American. [https://doi.org/10.1038/scientificamericantime1114-8](https://doi.org/10.1038/scientificamericantime1114-8)
 

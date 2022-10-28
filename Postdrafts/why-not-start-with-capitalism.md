@@ -10,6 +10,8 @@ taxonomy:
         - Logbook
 ---
 
+![A digital illustration of a centered sphere containing a perfect universe, surrounded by roman architecture](/_images/image-why-not-start-with-capitalism.jpg "Why Not Start With Capitalism?")
+
 Just get started. A daunting proposition, isn't it? Finally, after all this time, just go ahead and publish that piece you have been working on. It sounds so simple, so banal. And yet, it makes my stomach turn.
 
 The problem stems from the deeply held belief that perfection is attainable. We believe that if we follow all instructions, if we work hard enough, if we just keep at it, it will turn out just the way we imagined. Isn't that how this works?
