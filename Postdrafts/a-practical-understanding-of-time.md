@@ -42,7 +42,7 @@ Our frantic race from the clocks seems to lead right to the very thing we are ru
 
 This relationship we have with time leads us to dismiss the space where our lives actually take place. That infinite space for experience, the boundless capacity for change that is our nature. We need to build and nurture a rich relationship to what we call the present. It is the only way to live with what we have.
 
-Allan Watts refers to this as *the art of dying in the middle of life*. Sounds more flamboyant than it is, really. All it means is to be willing to renounce the compulsion to be anything. We don't need to be anything because we already are something, by default. Our human nature is something we were born with. We can be just that, at any moment. We can use what we have to live the life we want. 
+Alan Watts refers to this as *the art of dying in the middle of life*. Sounds more flamboyant than it is, really. All it means is to be willing to renounce the compulsion to be anything. We don't need to be anything because we already are something, by default. Our human nature is something we were born with. We can be just that, at any moment. We can use what we have to live the life we want. 
 
 The reality is that dying in the middle of life is not possible, or even advisable to its fullest extent. The philosophy of being I am proposing in these notes is also an illusion. A description of an ideal state. Many of our wrongly held beliefs are, at the same time, the drivers that hold our society together. What I am proposing is to be critical of the views we hold. To change just enough to live a better life in the world we have. To die just a little bit.
 
