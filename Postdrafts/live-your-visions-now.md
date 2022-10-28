@@ -1,8 +1,8 @@
 ---
-title: "Live your Visions Now"
+title: "Live Your Visions Now"
 sources: [21120202]
 uid: 202209051416
-aliases: [Live your Visions Now]
+aliases: [Live Your Visions Now]
 tags:
 - time
 post_status: future
