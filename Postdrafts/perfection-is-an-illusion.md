@@ -1,5 +1,5 @@
 ---
-title: "Perfection is an illusion"
+title: "Perfection Is an Illusion"
 sources: [21121701, 21122801]
 uid: 202209051500
 aliases: [Perfection is an illusion, Perfection, perfection]

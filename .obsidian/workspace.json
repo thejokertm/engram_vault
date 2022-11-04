@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postdrafts/finding-a-standard-for-capturing-knowledge.md",
+                "file": "Postdrafts/perfection-is-an-illusion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,14 +39,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postdrafts/live-your-dreams-now.md",
+                "file": "Postdrafts/finding-a-standard-for-capturing-knowledge.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,17 +157,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9cce402c1a2276f7",
+  "active": "eb342f1a2ad7a01d",
   "lastOpenFiles": [
-    "Postdrafts/why-not-start-with-capitalism.md",
     "Postdrafts/a-practical-understanding-of-time.md",
-    "Postdrafts/the-connection-between-deep-trust-and-paying-attention.md",
     "Postdrafts/finding-a-standard-for-capturing-knowledge.md",
-    "_images/image-finding-a-standard-for-capturing-knowledge.jpg",
-    "Postdrafts/perfection-is-an-illusion.md",
-    "Postdrafts/live-your-dreams-now.md",
     "Postdrafts/productivity-myth.md",
+    "Postdrafts/a-users-definition-of-hypercapitalism.md",
+    "Postdrafts/the-global-advertising-industry.md",
+    "Postdrafts/live-your-dreams-now.md",
+    "Postdrafts/perfection-is-an-illusion.md",
+    "Postdrafts/the-practice-of-paying-attention.md",
     "Postdrafts/deep-trust.md",
-    "Postdrafts/the-practice-of-paying-attention.md"
+    "Postdrafts/why-not-start-with-capitalism.md"
   ]
 }
