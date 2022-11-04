@@ -16,11 +16,11 @@ taxonomy:
 
 As human beings, we have the capacity to imagine perfect outcomes. But we tend to forget that perfection itself is not achievable. Perfection is an illusion. Conceivable, but never attainable.
 
-This creates a source of frustration. We constantly imagine things we cannot ever hope to achieve. The perfect house. The perfect partner. The perfect body. The perfect job. Every accomplishment looks like a failure when measured against the mental vision.
+This creates a source of frustration. We constantly imagine things we cannot ever hope to achieve. The perfect house. The perfect partner. The perfect body. The perfect job. Every accomplishment looks like a failure when measured against mental visions.
 
 We need to understand that perfection was never meant to be achieved in its entirety. And if we react with frustration to the mismatch between our imaginings and actual outcomes, we are missing the point.
 
-This idea of the perfect house might have lead you to build a beautifully imperfect space in its place. That space is real, you made it so. The vision leads us to action. And understanding that perfection can only ever be approximated allows us to celebrate reality, instead seeing everything as a failure.
+This idea of the perfect house might have led you to build a beautifully imperfect space in its place. That space is real, you made it so. Vision leads to action. And understanding that perfection can only ever be approximated allows us to celebrate reality, instead seeing everything as a failure.
 
 This why we constantly struggle with the [productivity grind](./productivity-myth.md). Our expectations are not realistic. There is a widespread lack of acceptance, of empathy towards our own condition. In an age of machines, automation and artificial intelligence, we hold ourselves to a deeply inhumane standard.
 

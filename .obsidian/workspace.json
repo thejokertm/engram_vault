@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "0f780c3bc22b5a1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postdrafts/perfection-is-an-illusion.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8de456be860992a9",
             "type": "leaf",
             "state": {
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Postdrafts/finding-a-standard-for-capturing-knowledge.md",
+                "file": "Postdrafts/live-your-dreams-now.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Postdrafts/finding-a-standard-for-capturing-knowledge.md",
+                "file": "Postdrafts/live-your-dreams-now.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,16 +170,16 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "56b30349e46d060d",
+  "active": "8de456be860992a9",
   "lastOpenFiles": [
+    "Postdrafts/perfection-is-an-illusion.md",
+    "Postdrafts/finding-a-standard-for-capturing-knowledge.md",
     "Postdrafts/a-users-definition-of-hypercapitalism.md",
     "Postdrafts/the-global-advertising-industry.md",
     "Postdrafts/deep-trust.md",
     "Postdrafts/the-practice-of-paying-attention.md",
-    "Postdrafts/perfection-is-an-illusion.md",
     "Postdrafts/live-your-dreams-now.md",
     "Postdrafts/productivity-myth.md",
-    "Postdrafts/finding-a-standard-for-capturing-knowledge.md",
     "Postdrafts/a-practical-understanding-of-time.md",
     "Postdrafts/the-connection-between-deep-trust-and-paying-attention.md"
   ]
