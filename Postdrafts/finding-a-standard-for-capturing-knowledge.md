@@ -27,7 +27,7 @@ These are the guidelines I follow for every note I create.
 
 These principles heavily rely on the idea of Evergreen Notes, popularized by [Andy Matuschak](https://notes.andymatuschak.org/Evergreen_notes) and [Maggie Appleton](https://maggieappleton.com/evergreens).
 
-I have adapted them to allow for different forms of creative expression. The vision I have for this project is to find new ways to mix the delivery of knowledge with art and creativity. I want to record what I have learned in interesting ways that trigger our emotional selves as well. It is not just about making a point, it is about creating something that resonates on an emotional level.
+I have adapted them to allow for different forms of creative expression. The vision I have for this project is to find new ways to mix the delivery of knowledge with art and creativity. I want to record what I have learned in interesting ways. It is not just about making a point, it is about creating something that resonates on an emotional level.
 
 ### Changelog (2)
 **🔵 UPDATED**: [Perfection is an illusion](./perfection-is-an-illusion.md)
