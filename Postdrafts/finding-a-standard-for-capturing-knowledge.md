@@ -10,7 +10,7 @@ taxonomy:
         - Logbook
 ---
 
-![](../_images/astroisland_Oil_painting_of_saplings_growing_into_trees_detaile_9cffe9a3-489b-49a9-aa0a-1a1ba649573a.jpg)
+![A sapling growing from the ground, representing one captured unit of knowledge](/_images/image-finding-a-standard-for-capturing-knowledge.jpg "Finding a Standard for Capturing Knowledge")
 
 One of the most important principles behind this project is that the notes I publish here are not finished. Today, I want to revisit some of my notes and make them better. And I want to take this opportunity to work out a few of the design principles behind this project.
 
