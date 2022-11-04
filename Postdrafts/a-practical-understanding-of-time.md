@@ -49,9 +49,8 @@ Alan Watts refers to this as *the art of dying in the middle of life*. This soun
 
 The reality is that dying in the middle of life is not possible, or even advisable to its fullest extent. The philosophy of being I am proposing in these notes is also an illusion. A description of an ideal state. Many of our wrongly held beliefs are, at the same time, the drivers that hold our society together. What I am proposing is to be critical of the views we hold. To change just enough to live a better life in the world we have. To die just a little bit.
 
-### All Added Notes
-[Live Your Visions Now](./live-your-visions-now.md)
-[You Will Never Have Enough Time](./you-will-never-have-enough-time.md)
+### Changelog (1)
+**🟢 ADDED**: [Live Your Visions Now](live-your-dreams-now.md)
 
 ### Last Week's Entry
 [The Connection Between Deep Trust and Paying Attention](./the-connection-between-deep-trust-and-paying-attention.md)
@@ -62,5 +61,3 @@ Davies, P. (2014, October 24). _Time’s Passage is Probably an Illusion_. Scien
 Holt, J. (n.d.). _The Grand Illusion_. Lapham’s Quarterly. Retrieved October 27, 2022, from [https://www.laphamsquarterly.org/time/grand-illusion](https://www.laphamsquarterly.org/time/grand-illusion)
 
 Jaffe, A. (2018, April 16). _The illusion of time_. Nature. [https://www.nature.com/articles/d41586-018-04558-7](https://www.nature.com/articles/d41586-018-04558-7)
-
-Watts, A. (2019, December 19). _Time and the Future Part 1_. Alan Watts Organization. [https://alanwatts.org/searchable/3-7-15-time-and-the-future-part-1/](https://alanwatts.org/searchable/3-7-15-time-and-the-future-part-1/)

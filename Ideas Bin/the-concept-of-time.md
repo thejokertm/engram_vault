@@ -55,7 +55,7 @@ The only way to be with time is to see it for what it is, a concept needed to li
 	- If you stop using your energy trying to defend yourself, all that energy becomes available for something else.
 	- Do you completely abandon all ego control? Do you take that gamble? Most people don't know how to use this experience properly.
 	- The only way to secure a good future is to renounce the notion of it all together.
-	- Instead of preparing for a good life, use what you have available to you right now to live a good life! [21120202 Live your Visions Now](live-your-visions-now.md)
+	- Instead of preparing for a good life, use what you have available to you right now to live a good life! [21120202 Live your Visions Now](../Postdrafts/live-your-dreams-now.md)
 	- Amateur is the man who does it for the love of it, not for the money (like the professional).
 	- The economy: It has to grow or collapse, it cannot stand still. This forces us to go up, to increase.
 	- The idea of time gives you the ability to plan ahead, to predict, but you pay with anxiety, bc you are always aware that you don't know enough.

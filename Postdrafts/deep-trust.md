@@ -20,9 +20,6 @@ Deep Trust is a deep-seated belief in yourself, not because you possess somethin
 
 That is the only belief worth having. The belief in your humanity. Not in God, not in anything that is out there. Not in skills or a superior intellect, not in beauty, or any form of acquired capabilities. Just in what you are.
 
-The singular source of Deep Trust is the constancy of consciousness. That space in which everything arises is forever present and accessible to all (see [Paying Attention](./the-practice-of-paying-attention.md)). It is the only thing that remains when all else fades.
+[The source of Deep Trust](the-connection-between-deep-trust-and-paying-attention.md) is the constancy of consciousness. That space in which everything arises is forever present and [accessible to all](./the-practice-of-paying-attention.md). It is the only thing that remains in your ever changing experience of being alive.
 
-Give yourself to life, to time and flow with the river, only then can you be sure to see a great many things.
-
-### Also Relevant
-[The Connection Between Paying Attention and Deep Trust](./the-connection-between-deep-trust-and-paying-attention.md)
+Give yourself to life, to [time](./a-practical-understanding-of-time.md) and flow with the river, only then can you be sure to see a great many things.

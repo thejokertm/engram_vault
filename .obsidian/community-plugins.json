@@ -1,8 +1,6 @@
 [
   "better-word-count",
   "obsidian-reading-time",
-  "obsidian-frontmatter-tag-suggest",
-  "obsidian-front-matter-title-plugin",
   "dataview",
   "obsidian-contextual-typography",
   "templater-obsidian",
@@ -10,5 +8,7 @@
   "obsidian-minimal-settings",
   "cm-typewriter-scroll-obsidian",
   "obsidian-regex-pipeline",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-frontmatter-tag-suggest",
+  "obsidian-front-matter-title-plugin"
 ]

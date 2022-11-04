@@ -6,7 +6,10 @@
     "explorer": true,
     "graph": true,
     "header": false,
-    "quick_switcher": true
+    "quick_switcher": true,
+    "file_note_link": false,
+    "starred": false,
+    "search": false
   },
   "rules": {
     "paths": {
@@ -25,6 +28,12 @@
   "features": {
     "explorer:sort": {
       "enabled": true
+    },
+    "file:note:link:approval": {
+      "enabled": false
+    },
+    "file:note:link:filter": {
+      "enabled": false
     }
   }
 }
