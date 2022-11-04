@@ -31,7 +31,7 @@ I have adapted them to allow for different forms of creative expression. The vis
 
 ### Changelog (2)
 **🔵 UPDATED**: [Perfection is an illusion](./perfection-is-an-illusion.md)
-**🔵 UPDATED**: [Live Your Dreams Now](live-your-dreams-now.md)
+**🔵 UPDATED**: [Live Your Dreams Now](./live-your-dreams-now.md)
 
 ### Last Week's Entry
 [A Practical Understanding of Time](./a-practical-understanding-of-time.md)

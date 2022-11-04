@@ -16,7 +16,7 @@ Just get started. A daunting proposition, isn't it? Finally, after all this time
 
 The problem stems from the deeply held belief that perfection is attainable. We believe that if we follow all instructions, if we work hard enough, if we just keep at it, it will turn out just the way we imagined. Isn't that how this works?
 
-[Perfection](perfection-is-an-illusion.md) is an illusion. It leads us to pursue an impossibility, leaving us forever disappointed by the results. Perfection blinds us to what we have actually created. This beautifully flawed piece of writing, those frosted cupcakes, these brushstrokes that tell tales of your insecurity, of your struggle. These things exist. They are this way because we made them so. At best, the illusion of perfection can serve as a feverish motivational vision, enabling us to chase a dream. At worst however, perfection is perceived as that goalpost for our projects we can never quite reach, leaving us in shambles every time we run out of breath.
+[Perfection](./perfection-is-an-illusion.md) is an illusion. It leads us to pursue an impossibility, leaving us forever disappointed by the results. Perfection blinds us to what we have actually created. This beautifully flawed piece of writing, those frosted cupcakes, these brushstrokes that tell tales of your insecurity, of your struggle. These things exist. They are this way because we made them so. At best, the illusion of perfection can serve as a feverish motivational vision, enabling us to chase a dream. At worst however, perfection is perceived as that goalpost for our projects we can never quite reach, leaving us in shambles every time we run out of breath.
 
 ## Let's try this again
 
@@ -37,7 +37,7 @@ The most important note in this week's collection, as simple as it may appear, i
 Trust yourself. That's about as mundane as self-help advice can go. But Deep Trust refers not to the trust itself, but to its ever present nature, to its undeniable origin. What makes this discovery so significant is realizing that the source of that trust is not bound to anything you can ever change, that it is deeply entwined with what you are as a human being. It relieves us of any pressure to be anything other than what we already are. This idea forms the foundation of how we can live fulfilling lives, even amidst less than ideal circumstances. We already have all the things we need.
 
 ### Changelog (4)
-**🟢 ADDED**: [Perfection – a Tangible Illusion](perfection-is-an-illusion.md)
+**🟢 ADDED**: [Perfection Is an Illusion](./perfection-is-an-illusion.md)
 **🟢 ADDED**: [A Users Definition of Hypercapitalism](./a-users-definition-of-hypercapitalism.md)
 **🟢 ADDED**: [The Productivity Myth](./productivity-myth.md)
 **🟢 ADDED**: [Deep Trust](./deep-trust.md)

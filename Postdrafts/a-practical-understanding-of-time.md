@@ -50,7 +50,7 @@ Alan Watts refers to this as *the art of dying in the middle of life*. This soun
 The reality is that dying in the middle of life is not possible, or even advisable to its fullest extent. The philosophy of being I am proposing in these notes is also an illusion. A description of an ideal state. Many of our wrongly held beliefs are, at the same time, the drivers that hold our society together. What I am proposing is to be critical of the views we hold. To change just enough to live a better life in the world we have. To die just a little bit.
 
 ### Changelog (1)
-**🟢 ADDED**: [Live Your Visions Now](live-your-dreams-now.md)
+**🟢 ADDED**: [Live Your Dreams Now](./live-your-dreams-now.md)
 
 ### Last Week's Entry
 [The Connection Between Deep Trust and Paying Attention](./the-connection-between-deep-trust-and-paying-attention.md)
