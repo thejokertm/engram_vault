@@ -1,0 +1,11 @@
+{
+  "serverUrl": "https://api.languagetool.org",
+  "urlMode": "standard",
+  "glassBg": false,
+  "shouldAutoCheck": true,
+  "pickyMode": true,
+  "englishVeriety": "en-US",
+  "germanVeriety": "de-DE",
+  "portugueseVeriety": "pt-PT",
+  "catalanVeriety": "ca-ES"
+}

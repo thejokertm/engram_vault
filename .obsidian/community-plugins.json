@@ -10,5 +10,6 @@
   "obsidian-regex-pipeline",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-frontmatter-tag-suggest",
-  "obsidian-front-matter-title-plugin"
+  "obsidian-front-matter-title-plugin",
+  "obsidian-languagetool-plugin"
 ]

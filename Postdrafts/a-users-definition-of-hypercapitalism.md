@@ -22,6 +22,6 @@ These tokens exist to be exchanged for something else, drawing your psyche into 
 
 Fancy wallets. Exotic juices. Slick phones. Blazing fast cars. Expansive homes. A trip to the Fiji Islands that will change your life. In hypercapitalism, everything can be bought [everything can be bought](./the-global-advertising-industry.md), it seems.
 
-Work more, buy more, and all the while something dwindles away, slowly fading into the darkness of your 4k smartphone display – your time and attention.
+Work more, buy more, and all the while something dwindles away, slowly fading into the darkness of your 4k smartphone display – your time and [attention](./the-practice-of-paying-attention.md).
 
 Wouldn't you be willing to let go of some of this so-called wealth to regain access to a core part of your humanity?

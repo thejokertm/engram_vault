@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb342f1a2ad7a01d",
+            "id": "f93a79c5d66defc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postdrafts/why-not-start-with-capitalism.md",
+                "file": "Postdrafts/places-and-spaces.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "56b30349e46d060d",
+            "id": "73393f96ac0fa680",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postdrafts/finding-a-standard-for-capturing-knowledge.md",
+                "file": "Postdrafts/shifting-outlines.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,33 +34,19 @@
             }
           },
           {
-            "id": "0f780c3bc22b5a1d",
+            "id": "f37c8a8a492e1667",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postdrafts/perfection-is-an-illusion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8de456be860992a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Postdrafts/live-your-dreams-now.md",
+                "file": "Postdrafts/the-jungle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,13 +112,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Postdrafts/live-your-dreams-now.md",
+                "file": "Postdrafts/places-and-spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -154,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Postdrafts/live-your-dreams-now.md",
+                "file": "Postdrafts/places-and-spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,23 +150,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "8de456be860992a9",
+  "active": "f93a79c5d66defc6",
   "lastOpenFiles": [
-    "Postdrafts/perfection-is-an-illusion.md",
     "Postdrafts/finding-a-standard-for-capturing-knowledge.md",
-    "Postdrafts/a-users-definition-of-hypercapitalism.md",
-    "Postdrafts/the-global-advertising-industry.md",
-    "Postdrafts/deep-trust.md",
+    "Postdrafts/places-and-spaces.md",
+    "Postdrafts/the-jungle.md",
+    "Postdrafts/shifting-outlines.md",
     "Postdrafts/the-practice-of-paying-attention.md",
-    "Postdrafts/live-your-dreams-now.md",
     "Postdrafts/productivity-myth.md",
-    "Postdrafts/a-practical-understanding-of-time.md",
-    "Postdrafts/the-connection-between-deep-trust-and-paying-attention.md"
+    "Postdrafts/deep-trust.md",
+    "Postdrafts/the-global-advertising-industry.md",
+    "Postdrafts/a-users-definition-of-hypercapitalism.md",
+    "Postdrafts/perfection-is-an-illusion.md"
   ]
 }

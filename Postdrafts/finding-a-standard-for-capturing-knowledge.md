@@ -29,7 +29,7 @@ These principles heavily rely on the idea of Evergreen Notes, popularized by [An
 
 I have adapted them to allow for different forms of creative expression. The vision I have for this project is to find new ways to mix the delivery of knowledge with art and creativity. I want to record what I have learned in interesting ways. It is not just about making a point, it is about creating something that resonates on an emotional level.
 
-### Changelog (2)
+### Changes (2)
 **🔵 UPDATED**: [Perfection is an illusion](./perfection-is-an-illusion.md)
 **🔵 UPDATED**: [Live Your Dreams Now](./live-your-dreams-now.md)
 
