@@ -1,7 +1,7 @@
 # Blacklist everything
 *
 # Whitelist all directories
-!*/
+!/Postdrafts/
 # Whitelist the file you're interested in. 
 !*.md
 !*.jpg
