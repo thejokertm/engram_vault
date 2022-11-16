@@ -1,8 +1,5 @@
 # Blacklist everything
 *
-.obsidian/*
-.trash/
-.DS_Store
 
 # Whitelist all directories
 !/Postdrafts/
@@ -11,4 +8,3 @@
 # Whitelist the file you're interested in. 
 !*.md
 !*.jpg
-.obsidian/workspace.json
