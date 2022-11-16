@@ -11,7 +11,7 @@ taxonomy:
 ---
 
 I had an experience in November of last year that to this day is hard to place. It certainly informs many of my decisions and has an impact to this day, even if that impact is difficult to grasp.
-asd
+
 ## The Premise is Simple
 
 I had been trying to figure out a way to live. I was looking for a small but significant set of principles I could use to guide my decisions and understand my failures. I was at a point where the way I understood my own humanity constantly led me to frustration, I could not do my own ambition justice. Everything I did seemed insufficient.

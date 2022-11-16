@@ -1,5 +1,6 @@
 # Ignore everything
 /*
+/.obsidian/
 
 # Except the postdrafts and images directories
 !/Postdrafts/
