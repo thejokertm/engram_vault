@@ -21,4 +21,4 @@ The always-on culture we have created around our services and products is not th
 
 The problem is the cost and the limited pool of benefactors. If this surplus of availability is retained exclusively for a selected few, and itself at the cost of a large majority, then thats the problem.
 
-We are building these products and services not for the majority, but for a selected few at the cost of the majority. It's not sustainable and it leads to [World Pain](../Temp/world-pain.md).
+We are building these products and services not for the majority, but for a selected few at the cost of the majority. It's not sustainable and it leads to [World Pain](../Postdrafts/world-pain.md).

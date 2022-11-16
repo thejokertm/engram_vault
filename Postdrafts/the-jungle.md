@@ -1,6 +1,6 @@
 ---
 title: "The Jungle"
-sources: 
+sources: []
 uid: 202211051023
 aliases: [The Jungle, confrontation with the self]
 tags:

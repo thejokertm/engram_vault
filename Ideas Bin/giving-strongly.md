@@ -18,7 +18,7 @@ taxonomy:
         - capitalism
 ---
 
-I feel strongly that one of our most inner desires is to give something back to the world. The problem with this is that we have seemingly run ourselves into a corner (see [[../Temp/world-pain|World Pain]]).
+I feel strongly that one of our most inner desires is to give something back to the world. The problem with this is that we have seemingly run ourselves into a corner (see [[../Postdrafts/world-pain|World Pain]]).
 
 I am not going to be able to change the world, but can I find a reason for being within it? Can I contribute something to the betterment of only one individual? 
 

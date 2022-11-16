@@ -5,7 +5,6 @@ uid: 202209121214
 aliases: [Paying Attention, Meditation, meditation]
 tags:
 - meditation
-post_nr:
 post_status: future
 post_date: 2022-10-21 10:00:00
 taxonomy:

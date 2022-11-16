@@ -23,4 +23,4 @@ The problem for most of us is that finding back is actually "finding for the fir
 
 Uncompromising self reflection at all times is the only way to get there, lead an examined life, look at yourself and at what is happening around you.
 
-Is [Try, Forgive, Accept, Try Again](../Temp/try-forgive-accept-try.md) an awnser?
+Is [Try, Forgive, Accept, Try Again](../Postdrafts/an-engine-for-human-action.md) an awnser?

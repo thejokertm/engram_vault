@@ -1,4 +1,6 @@
+# Ignore everything
+*
 
-.obsidian/workspace
-.DS_Store
-.DS_Store
+# Except the postdrafts and images directories
+!/Postdrafts/
+!/_images/
