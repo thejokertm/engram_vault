@@ -8,6 +8,8 @@ post_date: 2022-10-14 10:00:00
 taxonomy:
     category:
         - Logbook
+custom_fields:
+    _thumbnail_id: 564
 ---
 
 ![A digital illustration of a centered sphere containing a perfect universe, surrounded by roman architecture](/_images/image-why-not-start-with-capitalism.jpg "Why Not Start With Capitalism?")

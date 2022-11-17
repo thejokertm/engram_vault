@@ -8,7 +8,11 @@ post_date: 2022-11-18 09:00:00
 taxonomy:
     category:
         - Logbook
+custom_fields:
+    _thumbnail_id: 
 ---
+
+![An Arctic landscape with world pain buried underneath](../_images/image-when-it-hits-you-out-of-nowhere.jpg "When It Hits You Out of Nowhere")
 
 I had an experience in November of last year that to this day is hard to place. It certainly informs many of my decisions and has an impact to this day, even if that impact is difficult to grasp.
 

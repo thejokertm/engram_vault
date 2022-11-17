@@ -8,6 +8,8 @@ post_date: 2022-11-04 10:00:00
 taxonomy:
     category:
         - Logbook
+custom_fields:
+    _thumbnail_id: 587
 ---
 
 ![A sapling growing from the ground, representing one captured unit of knowledge](/_images/image-finding-a-standard-for-capturing-knowledge.jpg "Finding a Standard for Capturing Knowledge")

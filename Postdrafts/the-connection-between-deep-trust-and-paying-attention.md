@@ -8,6 +8,8 @@ post_date: 2022-10-21 10:00:00
 taxonomy:
     category:
         - Logbook
+custom_fields:
+    _thumbnail_id: 572
 ---
 
 ![The Connection Between Deep Trust and Paying Attention](/_images/image-the-connection-between-deep-trust-and-paying-attention.jpg "The Connection Between Deep Trust and Paying Attention")

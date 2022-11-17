@@ -8,6 +8,8 @@ post_date: 2022-10-28 10:00:00
 taxonomy:
     category:
         - Logbook
+custom_fields:
+    _thumbnail_id: 559
 ---
 
 ![A digital illustration of an ominous time clock hovering over the head of a human](/_images/image-a-practical-understanding-of-time.jpg "A Practical Understanding of Time")
