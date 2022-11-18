@@ -12,7 +12,7 @@ custom_fields:
     _thumbnail_id: 766
 ---
 
-![An Arctic landscape with world pain buried underneath](../_images/image-when-it-hits-you-out-of-nowhere.jpg "When It Hits You Out of Nowhere")
+![An Arctic landscape with world pain buried underneath](/_images/image-when-it-hits-you-out-of-nowhere.jpg "When It Hits You Out of Nowhere")
 
 I had an experience in November of last year that to this day is hard to place. It certainly informs many of my decisions and still has an impact, even if that impact is difficult to grasp.
 
