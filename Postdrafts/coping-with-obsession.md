@@ -9,7 +9,7 @@ taxonomy:
     category:
         - Logbook
 custom_fields:
-    _thumbnail_id:
+    _thumbnail_id: 778
 ---
 
 ![A man with a clouded mind](/_images/image-coping-with-obsession.jpg "Coping With Obsession")
