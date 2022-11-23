@@ -12,6 +12,8 @@ custom_fields:
     _thumbnail_id:
 ---
 
+![A man with a clouded mind](/_images/image-coping-with-obsession.jpg "Coping With Obsession")
+
 How do deal with difficult situations? We all know what the right thing to do is, we all know what is supposed to be healthy.
 
 Meditate, eat a nice salad, confide in a friend, go for a walk, hell, even go for a run! Yes, these things are well known and understood, and yet we don't always choose the healthy way to handle a problem. 
