@@ -24,7 +24,7 @@ I think of [obsessive thoughts](./obsession.md) as a coping mechanism, one that 
 
 A less than ideal, but nonetheless fascinating way to cope with these once they outlive their usefulness, is to drown out everything. Brute force it. We all do this from time to time, with varying degrees of intensity and success. I call this [Induced Temporary Numbness](./induced-temporary-numbness.md). A phenomenon that ultimately leads to complete emptiness. And it always works, but contrary to what this state may promise, it doesn't address the actual problem. It's the equivalent of taking a painkiller with dubious side effects.
 
-But sometimes, we need this, sometimes, we need a degree of escapism. And while tools like meditation help me keep these episodes to a minimum, I try to accept them as part of my life whenever they do overcome me.
+But sometimes, we need this, sometimes, we need a degree of escapism. And while tools like meditation help me keep these episodes to a minimum, I try to accept them as part of my life wheneve they do overcome me.
 
 ### Changes (2)
 **🟢 ADDED**: [Obsession](./obsession.md)
