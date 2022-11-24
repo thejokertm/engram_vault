@@ -16,15 +16,17 @@ taxonomy:
         - reality
 ---
 
-Obsession. You just can't seem to let go.
+Obsession. You just can't seem to let it go.
 
 That sensation of holding on to something so intensely, focusing on it with all of your attention. 
 
-Everything about it has to be known and understood, observed, analyzed. When this thing becomes something you could think about forever, it begins to claim your attention at times when it should not.
+Everything about it has to be known and understood, observed, analyzed. This thing becomes something you could think about forever, it begins to claim your attention at times when it should not.
 
-Like a parasite, it infects your brain and spreads at an alarming rate. Before you know it, all you will be doing is thinking about it, and thinking about, and thinking about it.
+Is this a way of distraction? A way to hide from something greater, from something painful?
 
-Why? These parasitic thoughts create a safe place in your mind. A place where you feel protected. You choose this place over facing harder truths. Or do you actually choose it? Or does it choose you?
+Like a parasite, these thoughts infect your brain and spread at an alarming rate. Before you know it, all you will be doing is thinking about it, and thinking about, and thinking about it.
+
+Why? These parasitic thoughts create a safe place in your mind. A place where you feel protected. You choose this place over facing harder truths. But wait. Do you actually choose it? Or does it choose you?
 
 %%
 - Why do we obsess over certain things as much as we do?
