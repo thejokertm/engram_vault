@@ -45,4 +45,4 @@ Why? These parasitic thoughts create a safe place in your mind. A place where yo
 - There is a strong "getting to the bottom of this" sentiment, like there is some truth that cannot be shaken, waiting to be understood. I don't know if this is the case. But life as I understand it, is about the journey of getting as close as possible to that.
 - Same thing with food, it provides this sense of comfort, like it fills me with pleasure briefly, before muting everything, nothing feels as good or bad anymore, I can just be, lay as an inanimate object, not having to face anything. See [[202109300706|Food Effects]]
 - These things that I am running from, there is a layer that simply includes tedious and mundane tasks, such as cleaning, running errands, laundry, even making a meal when I really don't feel like it, or working out. 
-  %%
+%%
