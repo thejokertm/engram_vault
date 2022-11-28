@@ -10,7 +10,7 @@ taxonomy:
     category:
         - Logbook
 custom_fields:
-    _thumbnail_id: 766
+    _thumbnail_id: 808
 ---
 
 ![An Arctic landscape with world pain buried underneath](/_images/image-when-it-hits-you-out-of-nowhere.webp "When It Hits You Out of Nowhere")

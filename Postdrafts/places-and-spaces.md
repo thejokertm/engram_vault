@@ -10,7 +10,7 @@ taxonomy:
     category:
         - Logbook
 custom_fields:
-    _thumbnail_id: 611
+    _thumbnail_id: 803
 ---
 
 ![The jungle, an area of land overgrown with dense forest and tangled vegetation, typically in the tropics](/_images/image-places-and-spaces.webp "Places and Spaces")

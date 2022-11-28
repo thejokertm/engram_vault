@@ -10,7 +10,7 @@ taxonomy:
     category:
         - Logbook
 custom_fields:
-    _thumbnail_id: 559
+    _thumbnail_id: 804
 ---
 
 ![A digital illustration of an ominous time clock hovering over the head of a human](/_images/image-a-practical-understanding-of-time.webp "A Practical Understanding of Time")

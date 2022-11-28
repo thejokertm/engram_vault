@@ -10,7 +10,7 @@ taxonomy:
     category:
         - Logbook
 custom_fields:
-    _thumbnail_id: 587
+    _thumbnail_id: 806
 ---
 
 ![A sapling growing from the ground, representing one captured unit of knowledge](/_images/image-finding-a-standard-for-capturing-knowledge.webp "Finding a Standard for Capturing Knowledge")
