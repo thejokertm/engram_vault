@@ -1,5 +1,5 @@
 ---
-title: "Coping With Obsession"
+title: "Coping With Obsession"
 uid: 202211171822
 aliases: ["#7 Coping With Obsession"]
 post_nr: 007

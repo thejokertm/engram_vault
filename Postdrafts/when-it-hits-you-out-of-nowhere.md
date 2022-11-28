@@ -1,5 +1,5 @@
 ---
-title: "When It Hits You Out of Nowhere"
+title: "When It Hits You Out of Nowhere"
 uid: 202210081206
 aliases: ["#6 When It Hits You Out of Nowhere"]
 post_nr: 006
