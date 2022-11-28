@@ -39,7 +39,7 @@ The most important note in this week's collection, as simple as it may appear, i
 
 Trust yourself. That's about as mundane as self-help advice can go. But Deep Trust refers not to the trust itself, but to its ever present nature, to its undeniable origin. What makes this discovery so significant is realizing that the source of that trust is not bound to anything you can ever change, that it is deeply entwined with what you are as a human being. It relieves us of any pressure to be anything other than what we already are. This idea forms the foundation of how we can live fulfilling lives, even amidst less than ideal circumstances. We already have all the things we need.
 
-### Changes (4)
+### Changes (4)x
 **🟢 ADDED**: [Perfection Is an Illusion](./perfection-is-an-illusion.md)
 **🟢 ADDED**: [A Users Definition of Hypercapitalism](./a-users-definition-of-hypercapitalism.md)
 **🟢 ADDED**: [The Productivity Myth](./productivity-myth.md)
