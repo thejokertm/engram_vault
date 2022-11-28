@@ -8,6 +8,7 @@ tags:
 - perfection
 post_status: future
 post_date: 2022-11-18 09:00:00
+comment_status: closed
 taxonomy:
     category:
         - Digital Garden

@@ -7,6 +7,7 @@ tags:
 - meditation
 post_status: future
 post_date: 2022-10-21 10:00:00
+comment_status: closed
 taxonomy:
     category:
         - Digital Garden
