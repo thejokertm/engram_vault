@@ -5,6 +5,7 @@ aliases: ["#5 Places and Spaces"]
 post_nr: 005
 post_status: future
 post_date: 2022-11-11 09:00:00
+comment_status: open
 taxonomy:
     category:
         - Logbook

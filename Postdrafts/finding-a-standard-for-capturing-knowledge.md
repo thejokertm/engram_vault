@@ -5,6 +5,7 @@ aliases: ["#4 Finding a Standard for Capturing Knowledge"]
 post_nr: 004
 post_status: future
 post_date: 2022-11-04 10:00:00
+comment_status: open
 taxonomy:
     category:
         - Logbook

@@ -5,6 +5,7 @@ aliases: ["#6 When It Hits You Out of Nowhere"]
 post_nr: 006
 post_status: future
 post_date: 2022-11-18 09:00:00
+comment_status: open
 taxonomy:
     category:
         - Logbook

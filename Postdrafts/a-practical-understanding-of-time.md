@@ -5,6 +5,7 @@ aliases: ["#3 A Practical Understanding of Time"]
 post_nr: 003
 post_status: future
 post_date: 2022-10-28 10:00:00
+comment_status: open
 taxonomy:
     category:
         - Logbook

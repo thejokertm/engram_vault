@@ -5,6 +5,7 @@ aliases: ["#2 The Connection Between Deep Trust and Paying Attention"]
 post_nr: 002
 post_status: future
 post_date: 2022-10-21 10:00:00
+comment_status: open
 taxonomy:
     category:
         - Logbook
