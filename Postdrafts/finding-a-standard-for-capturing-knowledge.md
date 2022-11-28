@@ -13,7 +13,7 @@ custom_fields:
     _thumbnail_id: 587
 ---
 
-![A sapling growing from the ground, representing one captured unit of knowledge](/_images/image-finding-a-standard-for-capturing-knowledge.jpg "Finding a Standard for Capturing Knowledge")
+![A sapling growing from the ground, representing one captured unit of knowledge](/_images/image-finding-a-standard-for-capturing-knowledge.webp "Finding a Standard for Capturing Knowledge")
 
 One of the most important principles behind this project is that the notes I publish here are not finished. Today, I want to revisit some of my notes and make them better. And I want to take this opportunity to work out a few of the design principles behind this project.
 

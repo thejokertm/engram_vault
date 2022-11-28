@@ -13,7 +13,7 @@ custom_fields:
     _thumbnail_id: 559
 ---
 
-![A digital illustration of an ominous time clock hovering over the head of a human](/_images/image-a-practical-understanding-of-time.jpg "A Practical Understanding of Time")
+![A digital illustration of an ominous time clock hovering over the head of a human](/_images/image-a-practical-understanding-of-time.webp "A Practical Understanding of Time")
 
 
 The question of time is a pressing one. How we perceive past, present and future has an enormous impact on our quality of life. This week, I want to take a closer look at our perception of time and its actual relevance. Understanding this, considering its immediacy, is crucial to building a philosophy of life that works in our favor.

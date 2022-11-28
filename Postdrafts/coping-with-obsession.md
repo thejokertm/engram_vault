@@ -13,7 +13,7 @@ custom_fields:
     _thumbnail_id: 778
 ---
 
-![A man with a clouded mind](/_images/image-coping-with-obsession.jpg "Coping With Obsession")
+![A man with a clouded mind](/_images/image-coping-with-obsession.webp "Coping With Obsession")
 
 How do we deal with difficult situations? We all know what the right thing to do is, we all know what is supposed to be healthy.
 

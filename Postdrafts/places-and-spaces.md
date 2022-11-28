@@ -13,7 +13,7 @@ custom_fields:
     _thumbnail_id: 611
 ---
 
-![The jungle, an area of land overgrown with dense forest and tangled vegetation, typically in the tropics](/_images/image-the-jungle.jpg "Places and Spaces")
+![The jungle, an area of land overgrown with dense forest and tangled vegetation, typically in the tropics](/_images/image-places-and-spaces.webp "Places and Spaces")
 
 I like to create from experience. There is something special about taking an intimately familiar place and turning it into something greater than the sum of its parts. Like little worlds of their own, these notes exist to evoke a feeling and transmit an idea.
 

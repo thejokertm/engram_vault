@@ -13,7 +13,7 @@ custom_fields:
     _thumbnail_id: 564
 ---
 
-![A digital illustration of a centered sphere containing a perfect universe, surrounded by roman architecture](/_images/image-why-not-start-with-capitalism.jpg "Why Not Start With Capitalism?")
+![A digital illustration of a centered sphere containing a perfect universe, surrounded by roman architecture](/_images/image-why-not-start-with-capitalism.webp "Why Not Start With Capitalism?")
 
 Just get started. A daunting proposition, isn't it? Finally, after all this time, just go ahead and publish that piece you have been working on. It sounds so simple, so banal. And yet, it makes my stomach turn.
 
