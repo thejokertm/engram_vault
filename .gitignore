@@ -7,4 +7,4 @@
 
 # Whitelist the file you're interested in. 
 !*.md
-!*.jpg
+!*.webp
