@@ -17,9 +17,9 @@ taxonomy:
 
 Darkness. A white cone of light graced her silhouette. The room was full of expectation. The dreams and desires of a hungry crowd were about to be fulfilled, surpassed even.
 
-Then, the silence is broken. A sequence of chords sets the mood. Soft strings join the spectacle, elegantly texturing the progression.
+Then, the silence is broken. A sequence of chords sets the mood. Soft strings join the spectacle, texturing the progression.
 
-Her body began to sway to the music, tuning in to the scene, becoming one with it. It was this deliverance, this vulnerability, on display for everyone present, that was so remarkable and unique to that moment. As she began to sing, the diffused attention of the crowd focused only on her face. 
+Her body began to sway to the music, tuning in to the scene, becoming one with it. It was this deliverance, this vulnerability, on display for everyone present, that was so remarkable and unique to that moment. As she began to sing, the diffused attention of the crowd focused only on her illuminated face. 
 
 It was [perfect](./perfection-is-an-illusion.md), nothing could distract from her ever engulfing swansong. At that moment, she had more power than any king, emperor, or statesman. She had a lifeline to her audiences' heart. 
 
