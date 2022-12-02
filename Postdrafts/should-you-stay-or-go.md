@@ -8,7 +8,9 @@ post_date: 2022-12-02 10:00:00
 comment_status: open
 taxonomy:
     category:
-        - Digital Garden
+        - Logbook
+custom_fields:
+    _thumbnail_id: 836
 ---
 
 ![A woman standing on a stage](/_images/image-should-you-stay-or-go.webp "Should You Stay or Go?")
