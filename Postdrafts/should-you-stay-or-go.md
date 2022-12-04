@@ -11,6 +11,7 @@ taxonomy:
         - Logbook
 custom_fields:
     _thumbnail_id: 836
+    post_nr: 008
 ---
 
 ![A woman standing on a stage](/_images/image-should-you-stay-or-go.webp "Should You Stay or Go?")
