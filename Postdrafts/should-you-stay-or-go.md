@@ -2,7 +2,6 @@
 title: "Should You Stay or Go?"
 uid: 202211290916
 aliases: ["#8 When You Choose to Go or Stay"]
-post_nr: 008
 post_status: future
 post_date: 2022-12-02 10:00:00
 comment_status: open
@@ -11,7 +10,7 @@ taxonomy:
         - Logbook
 custom_fields:
     _thumbnail_id: 836
-    post_nr: 008
+    post_nr: 8
 ---
 
 ![A woman standing on a stage](/_images/image-should-you-stay-or-go.webp "Should You Stay or Go?")

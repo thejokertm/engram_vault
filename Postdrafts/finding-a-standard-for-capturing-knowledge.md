@@ -2,7 +2,6 @@
 title: "Finding a Standard for Capturing Knowledge"
 uid: 202211020924
 aliases: ["#4 Finding a Standard for Capturing Knowledge"]
-post_nr: 004
 post_status: future
 post_date: 2022-11-04 10:00:00
 comment_status: open
@@ -11,6 +10,7 @@ taxonomy:
         - Logbook
 custom_fields:
     _thumbnail_id: 806
+    post_nr: 4
 ---
 
 ![A sapling growing from the ground, representing one captured unit of knowledge](/_images/image-finding-a-standard-for-capturing-knowledge.webp "Finding a Standard for Capturing Knowledge")

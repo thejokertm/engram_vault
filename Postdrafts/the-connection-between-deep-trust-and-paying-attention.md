@@ -2,7 +2,6 @@
 title: "The Connection Between Deep Trust and Paying Attention"
 uid: 202210061036
 aliases: ["#2 The Connection Between Deep Trust and Paying Attention"]
-post_nr: 002
 post_status: future
 post_date: 2022-10-21 10:00:00
 comment_status: open
@@ -11,6 +10,7 @@ taxonomy:
         - Logbook
 custom_fields:
     _thumbnail_id: 807
+    post_nr: 2
 ---
 
 ![The Connection Between Deep Trust and Paying Attention](/_images/image-the-connection-between-deep-trust-and-paying-attention.webp "The Connection Between Deep Trust and Paying Attention")

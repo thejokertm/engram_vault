@@ -2,7 +2,6 @@
 title: "A Practical Understanding of Time"
 uid: 202210261049
 aliases: ["#3 A Practical Understanding of Time"]
-post_nr: 003
 post_status: future
 post_date: 2022-10-28 10:00:00
 comment_status: open
@@ -11,6 +10,7 @@ taxonomy:
         - Logbook
 custom_fields:
     _thumbnail_id: 804
+    post_nr: 3
 ---
 
 ![A digital illustration of an ominous time clock hovering over the head of a human](/_images/image-a-practical-understanding-of-time.webp "A Practical Understanding of Time")

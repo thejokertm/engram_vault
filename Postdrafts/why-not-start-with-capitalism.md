@@ -2,7 +2,6 @@
 title: "Why Not Start With Capitalism?"
 uid: 202209281122
 aliases: ["#1 Why not Start With Capitalism?"]
-post_nr: 001
 post_status: future
 post_date: 2022-10-14 10:00:00
 comment_status: open
@@ -11,6 +10,7 @@ taxonomy:
         - Logbook
 custom_fields:
     _thumbnail_id: 809
+    post_nr: 1
 ---
 
 ![A digital illustration of a centered sphere containing a perfect universe, surrounded by roman architecture](/_images/image-why-not-start-with-capitalism.webp "Why Not Start With Capitalism?")

@@ -2,7 +2,6 @@
 title: "When It Hits You Out of Nowhere"
 uid: 202210081206
 aliases: ["#6 When It Hits You Out of Nowhere"]
-post_nr: 006
 post_status: future
 post_date: 2022-11-18 09:00:00
 comment_status: open
@@ -11,6 +10,7 @@ taxonomy:
         - Logbook
 custom_fields:
     _thumbnail_id: 808
+    post_nr: 6
 ---
 
 ![An Arctic landscape with world pain buried underneath](/_images/image-when-it-hits-you-out-of-nowhere.webp "When It Hits You Out of Nowhere")

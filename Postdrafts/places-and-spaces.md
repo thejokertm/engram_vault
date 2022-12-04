@@ -2,7 +2,6 @@
 title: "Places and Spaces"
 uid: 202211081049
 aliases: ["#5 Places and Spaces"]
-post_nr: 005
 post_status: future
 post_date: 2022-11-11 09:00:00
 comment_status: open
@@ -11,6 +10,7 @@ taxonomy:
         - Logbook
 custom_fields:
     _thumbnail_id: 803
+    post_nr: 5
 ---
 
 ![The jungle, an area of land overgrown with dense forest and tangled vegetation, typically in the tropics](/_images/image-places-and-spaces.webp "Places and Spaces")
