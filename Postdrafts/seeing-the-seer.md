@@ -13,7 +13,7 @@ custom_fields:
     post_nr: 9
 ---
 
-![](../_images/domingo.s.ancho_A_perfectly_lit_chair_digital_illustration_by_S_c19801e0-301f-4668-b25e-897c132aa6db.webp)
+![A perfectly lit chair](/_images/image-seeing-the-seer.webp "Seeing the Seer")
 
 The beauty of a chair. An instantly recognizable object. But what makes this so? This is a discussion as old as time itself. It's straight forward to define a few criteria as to what qualifies as a chair. This may work for everyday life, but these things don't hold up under scrutiny. They never do. Four legs? What about single legged chairs? Is it the seat itself? Wouldn't that turn everything with a seating surface into a chair? And why wouldn't a table also be a chair then?
 
