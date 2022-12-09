@@ -32,4 +32,4 @@ But sometimes, we need this, sometimes, we need a degree of escapism. And while 
 **🟢 ADDED**: [Induced Temporary Numbness](./induced-temporary-numbness.md)
 
 ### Last Week's Entry
-[#6 When It Hits You Out of Nowhere](./when-it-hits-you-out-of-nowhere.md)
+[When It Hits You Out of Nowhere](./when-it-hits-you-out-of-nowhere.md)

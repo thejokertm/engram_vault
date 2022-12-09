@@ -30,4 +30,4 @@ The point is, the goalpost remains the same. But one path seems to lead you outw
 **🟢 ADDED**: [Bed Bound](./bed-bound.md)
 
 ### Last Week's Entry
-[#7 Coping With Obsession](./coping-with-obsession.md)
+[Coping With Obsession](./coping-with-obsession.md)
