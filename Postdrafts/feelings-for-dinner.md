@@ -9,7 +9,7 @@ taxonomy:
     category:
         - Logbook
 custom_fields:
-    _thumbnail_id: 
+    _thumbnail_id: 969
     post_nr: 10
 ---
 
