@@ -1,7 +1,7 @@
 ---
 title: "Why Not Start With Capitalism?"
 uid: 202209281122
-aliases: ["#1 Why not Start With Capitalism?"]
+aliases: ["01 Why not Start With Capitalism?"]
 post_status: future
 post_date: 2022-10-14 10:00:00
 comment_status: open

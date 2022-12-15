@@ -1,7 +1,7 @@
 ---
 title: "Should You Stay or Go?"
 uid: 202211290916
-aliases: ["#8 When You Choose to Go or Stay"]
+aliases: ["08 When You Choose to Go or Stay"]
 post_status: future
 post_date: 2022-12-02 10:00:00
 comment_status: open

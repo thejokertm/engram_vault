@@ -1,7 +1,7 @@
 ---
 title: "Coping With Obsession"
 uid: 202211171822
-aliases: ["#7 Coping With Obsession"]
+aliases: ["07 Coping With Obsession"]
 post_status: future
 post_date: 2022-11-25 07:00:00
 comment_status: open

@@ -17,7 +17,7 @@ taxonomy:
 
 Waking up is hard.
 
-Every 12 hours or so, our bodies need to recharge. Our sense of self takes a back seat. We try to [escape consciousness](./induced-temporary-numbness.md) all the time, be it by using substances, food, or by succumbing to the unavoidable allure of social media. But when we sleep, we do not think, we are knocked out, gone. It might feel like an instant or like eternity, we might remember a dream, we might not. But eventually, we all awake to the reality of our lives.
+Every 12 hours or so, our bodies need to recharge. Our sense of self takes a back seat. We try to [escape consciousness](./induced-temporary-numbness.md) all the time, be it by using substances, [food](./the-effects-of-food.md), or by succumbing to the unavoidable allure of social media. But when we sleep, we do not think, we are knocked out, gone. It might feel like an instant or like eternity, we might remember a dream, we might not. But eventually, we all awake to the reality of our lives.
 
 In a darkened room, sun rays peek through the blinds. He awakes to nothing. His body is heavy, turning and tossing, this feels wrong. There is a pervasive sense of remaining, of not wanting to move. An invisible force holds him down. Anything beyond slight posture adjustments seems unachievable.
 

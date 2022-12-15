@@ -1,7 +1,7 @@
 ---
 title: "The Connection Between Deep Trust and Paying Attention"
 uid: 202210061036
-aliases: ["#2 The Connection Between Deep Trust and Paying Attention"]
+aliases: ["02 The Connection Between Deep Trust and Paying Attention"]
 post_status: future
 post_date: 2022-10-21 10:00:00
 comment_status: open

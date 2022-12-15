@@ -1,7 +1,7 @@
 ---
 title: "Seeing the Seer"
 uid: 202211290910
-aliases: ["#9 Seeing the Seer"]
+aliases: ["09 Seeing the Seer"]
 post_status: future
 post_date: 2022-12-09 07:00:00
 comment_status: open
