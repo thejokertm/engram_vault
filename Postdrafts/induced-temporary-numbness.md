@@ -19,7 +19,7 @@ taxonomy:
 
 The chatter is gone.
 
-You lose yourself in the crackling sound of a single off-brand potato chip as it explodes on your tongue. That taste. The excess salt, the artificial flavors. It is too much. Too much is just right.
+You lose yourself in the crackling sound of a single off-brand [potato chip](./the-effects-of-food.md) as it explodes on your tongue. That taste. The excess salt, the artificial flavors. It is too much. Too much is just right.
 
 Your eyes are drawn to a singular source of light. You watch entire lifetimes condensed for your entertainment. The joy, the pain, the drama. It's all on display for you, to distract your mind just enough to shut up while your serotonin levels rise and fall with every potato chip that bursts in your mouth. The emptiness is unrivaled.
 

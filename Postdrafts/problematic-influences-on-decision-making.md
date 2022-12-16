@@ -25,7 +25,7 @@ When you perceive an emotion or make a new assumption, always test these against
 
 In this way you can make sure that your current thinking is not tied, or even worse, a byproduct of these states.
 
-These are closely related to [HALT]([https://www.mindtools.com/acd2ov1/what-are-the-halt-risk-states](https://www.mindtools.com/acd2ov1/what-are-the-halt-risk-states)) (Hungry, Angry, Lonely, Tired). Feelings and assumptions that arise from any of these circumstances are transient in nature and should ideally not influence our decision-making. 
+These are closely related to [HALT](https://www.mindtools.com/acd2ov1/what-are-the-halt-risk-states) (Hungry, Angry, Lonely, Tired). Feelings and assumptions that arise from any of these circumstances are transient in nature and should ideally not influence our decision-making. 
 
 When we suffer from any of these factors, we do not have our best interest in mind. Our body is focused on survival, towards immediate gratification or a relief of the biological state in question.
 

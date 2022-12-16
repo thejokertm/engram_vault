@@ -23,7 +23,7 @@ In a darkened room, sun rays peek through the blinds. He awakes to nothing. His 
 
 What is supposed to be the start of a new day turns into a living nightmare. He drifts in and out of consciousness. When he does finally push to move his body to an upright position, hours have passed and his brain is drained. All the energy accumulated during sleep has been spent fighting gravity. 
 
-He drags himself through his day, taking every opportunity to numb the pain. Binging on a frozen Pop-Tard or the newest chick flick, it does not matter. Finally, he drifts back into a deep slumber, only to experience it all over again.
+He drags himself through his day, taking every opportunity to numb the pain. [Binging on a frozen Pop-Tard](./the-effects-of-food.md) or the newest chick flick, it does not matter. Finally, he drifts back into a deep slumber, only to experience it all over again.
 
 This invisible force is trying to protect him from reality. There is no need to ever get up again. What he needs to survive and fulfill his biological destiny can be brought right to him. 
 
