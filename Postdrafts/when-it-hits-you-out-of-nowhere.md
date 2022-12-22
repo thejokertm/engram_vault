@@ -61,7 +61,7 @@ I tend to the dynamic between being and striving like I tend to a garden. I give
 
 ### Changes (3)
 **🟢 ADDED**: [World Pain](./world-pain.md)
-**🟢 ADDED**: [An Engine for Human Action](./an-engine-for-human-action.md)
+**🟢 ADDED**: [An Engine for Human Action](./cycle-of-action.md)
 **🟢 ADDED**: [Striving and Being](./striving-and-being.md)
 
 ### Last Week's Entry
