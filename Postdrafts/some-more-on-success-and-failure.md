@@ -9,7 +9,7 @@ taxonomy:
     category:
         - Logbook
 custom_fields:
-    _thumbnail_id:
+    _thumbnail_id: 993
     post_nr: 11
 ---
 
@@ -19,9 +19,9 @@ As the year comes to a close, I wanted to take some time and improve a couple of
 
 My original idea for this one was to describe a loop, a process of being that accurately reflects how we make progress as humans. The most important thing for me personally, was to demystify both success and failure.
 
-The media and our culture at large will have us believe that failure is something to be avoided, and success something to be strived for. In reality, I see both of these concepts as equals. Describing something as a failure or success means to attribute judgement to experience. And this is rarely, if ever, a healthy thing to do. 
+The media and our culture at large will have us believe that failure is something to be avoided, and success something to be strived for. In reality, I see both of these concepts as equals. Describing something as a failure or success means to attribute judgement to experience.
 
-The reality is that the idea behind success and failure is tied not only to society, but also to our own expectations. Attempting to be better, to learn, to grow and to understand is the core of our human condition. This is available to everyone, regardless of how we rate the outcome. And the outcome, in its purest form, is the experience itself.
+The reality is that the idea behind success and failure is tied not only to society, but also to our own expectations. Attempting to be better, to learn, to grow and to understand is the core of our human condition. This is available to everyone, regardless of how we rate the outcome. And the outcome, in its purest form, is the experience itself. And that is enough.
 
 ### Changes (1)
 **🔵 UPDATED**: [Cycle of Action](./cycle-of-action.md)
