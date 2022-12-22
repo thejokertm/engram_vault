@@ -23,12 +23,12 @@ Human fallibility is something to be accepted and embraced. It is a fact we cann
 
 Let's try to define a cycle of action that sees both failure and success as equals in a process to gain experience and live an examined life.
 
-1. **Try (Again) →** 
+1. **Try (again) →** 
    This is our default. This is the mode where we push forward and try to make a difference for the betterment of our lives.
-2. **Fail or Succeed →**
+2. **Fail or succeed →**
    You will fail. You will succeed. The point is, either way, the next step is going to be the same. Failures sting, success make you feel good. Whatever it is, embrace it.
 3. **Accept →**
-   This is important, and often overlooked in our culture. Accept your nature, accept your own failures. It seems to be just as hard to accept success.
+   This is important, and often overlooked in our culture. Accept your nature, accept your own failures. And it seems to be just as hard to accept success.
 4. **Learn →**
    With a level head, analyze critically what you can do different in the future. Sometimes it is not even about doing something different, but about extracting a valuable experience from a series of events. This is true for both failure and success.
    **Back to 1 →**
