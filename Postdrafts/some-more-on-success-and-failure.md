@@ -27,4 +27,4 @@ The reality is that the idea behind success and failure is tied not only to soci
 **🔵 UPDATED**: [Cycle of Action](./cycle-of-action.md)
 
 ### Last Week's Entry
-[Feelings for Dinner](feelings-for-dinner.md)
+[Feelings for Dinner](./feelings-for-dinner.md)
