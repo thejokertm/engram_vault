@@ -6,7 +6,7 @@ aliases: ["The Boundaries of Our Influence"]
 tags:
 - balance
 post_status: future
-post_date: 2023-01-06 07:00:00
+post_date: 2023-01-06 17:00:00
 comment_status: closed
 taxonomy:
     category:

@@ -3,13 +3,13 @@ title: "Finding a Balance Between Solitude and Social Exchange"
 uid: 202211290915
 aliases: [12 Private and Public]
 post_status: future
-post_date: 2023-01-06 07:00:00
+post_date: 2023-01-06 17:00:00
 comment_status: open
 taxonomy:
     category:
         - Logbook
 custom_fields:
-    _thumbnail_id:
+    _thumbnail_id: 1007
     post_nr: 12
 ---
 
